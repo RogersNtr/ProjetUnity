@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="Assets\CamFollowSmooth.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\Portail1.cs" />
+    <Compile Include="Assets\Portail2.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
