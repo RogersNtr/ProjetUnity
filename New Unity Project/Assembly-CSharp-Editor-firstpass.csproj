@@ -61,29 +61,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Plugins\GitHub\Editor\ExtensionLoader.cs" />
     <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\GerstnerDisplaceEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\PlanarReflectionEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\SpecularLightingEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
+    <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
+    <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
     <Reference Include="Cinemachine">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -298,6 +301,12 @@
     <Reference Include="UnityEditor.Networking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
     </Reference>
+    <Reference Include="Vuforia.UnityExtensions.Editor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Vuforia.UnityExtensions">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.GoogleAudioSpatializer">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll</HintPath>
     </Reference>
@@ -322,23 +331,53 @@
     <Reference Include="UnityEditor.Graphs">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.WebGL.Extensions">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="AsyncBridge.Net35">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.Api">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.Logging">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.Unity">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="ReadOnlyCollectionsInterfaces">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="sfw.net">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/matahi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/chamb/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>C:/Users/matahi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>C:/Users/chamb/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Analytics">
-      <HintPath>C:/Users/matahi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll</HintPath>
+      <HintPath>C:/Users/chamb/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/matahi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/chamb/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
-      <HintPath>C:/Users/matahi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/chamb/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
@@ -375,6 +414,18 @@
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{79391AC5-8752-B4CC-F33F-BB9EB1094377}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="AstarPathfindingProject.csproj">
+      <Project>{5FB1D939-81F6-2E5A-FE7B-B31D4BD473F8}</Project>
+      <Name>AstarPathfindingProject</Name>
+    </ProjectReference>
+    <ProjectReference Include="PackageToolsEditor.csproj">
+      <Project>{D073285C-FA17-42A7-5955-F9438AB799AF}</Project>
+      <Name>PackageToolsEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="AstarPathfindingProjectEditor.csproj">
+      <Project>{6100734E-3241-74D7-5009-19BA3B75165B}</Project>
+      <Name>AstarPathfindingProjectEditor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

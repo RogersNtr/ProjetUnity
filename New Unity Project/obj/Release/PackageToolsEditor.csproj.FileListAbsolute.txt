@@ -1,0 +1,2 @@
+C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\PackageToolsEditor.csprojAssemblyReference.cache
+C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\PackageToolsEditor.csproj.CoreCompileInputs.cache

@@ -62,9 +62,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ActionMenuPause.cs" />
+    <Compile Include="Assets\Detection.cs" />
+    <Compile Include="Assets\enemyAI.cs" />
     <Compile Include="Assets\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
+    <Compile Include="Assets\KillEnemy.cs" />
+    <Compile Include="Assets\KillPlayer.cs" />
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\MonMenuPause.cs" />
+    <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\NextLevel.cs" />
     <Compile Include="Assets\portails\portailHorizontal.cs" />
     <Compile Include="Assets\portails\portailVertical.cs" />
@@ -78,22 +83,22 @@
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Cinemachine">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/matahi/Documents/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -284,6 +289,9 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
     </Reference>
+    <Reference Include="Vuforia.UnityExtensions">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.GoogleAudioSpatializer">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
     </Reference>
@@ -293,11 +301,14 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>C:/Users/matahi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>C:/Users/chamb/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
-      <HintPath>C:/Users/matahi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/chamb/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
@@ -331,6 +342,18 @@
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{79391AC5-8752-B4CC-F33F-BB9EB1094377}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="AstarPathfindingProject.csproj">
+      <Project>{5FB1D939-81F6-2E5A-FE7B-B31D4BD473F8}</Project>
+      <Name>AstarPathfindingProject</Name>
+    </ProjectReference>
+    <ProjectReference Include="PackageToolsEditor.csproj">
+      <Project>{D073285C-FA17-42A7-5955-F9438AB799AF}</Project>
+      <Name>PackageToolsEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="AstarPathfindingProjectEditor.csproj">
+      <Project>{6100734E-3241-74D7-5009-19BA3B75165B}</Project>
+      <Name>AstarPathfindingProjectEditor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

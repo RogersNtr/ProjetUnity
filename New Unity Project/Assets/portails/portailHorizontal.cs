@@ -24,19 +24,23 @@ namespace UnityStandardAssets._2D
         {
             
             GameObject robot = collision.gameObject;
-            float gravity_robot = robot.GetComponent<Rigidbody2D>().gravityScale;
-            float JumpForce_robot = robot.GetComponent<PlatformerCharacter2D>().m_JumpForce;
-            if (gravity_robot > 0) // si on est au dessus
+            GameObject var = GameObject.FindWithTag("Enemies");
+            if (var != robot)
             {
-                robot.GetComponent<Rigidbody2D>().gravityScale = gravity_robot * (-1); // inverse la gravité
-                robot.transform.SetPositionAndRotation(repspawnPostionDown, repspawnRotationDown); // respawn 
-                robot.GetComponent<PlatformerCharacter2D>().m_JumpForce = JumpForce_robot * (-1);
-            }
-            else // si on est en dessous
-            {
-                robot.GetComponent<Rigidbody2D>().gravityScale = gravity_robot * (-1); // inverse la gravité
-                robot.transform.SetPositionAndRotation(repspawnPostionUp, repspawnRotationUp); // respawn 
-                robot.GetComponent<PlatformerCharacter2D>().m_JumpForce = JumpForce_robot * (-1);
+                float gravity_robot = robot.GetComponent<Rigidbody2D>().gravityScale;
+                float JumpForce_robot = robot.GetComponent<PlatformerCharacter2D>().m_JumpForce;
+                if (gravity_robot > 0) // si on est au dessus
+                {
+                    robot.GetComponent<Rigidbody2D>().gravityScale = gravity_robot * (-1); // inverse la gravité
+                    robot.transform.SetPositionAndRotation(repspawnPostionDown, repspawnRotationDown); // respawn 
+                    robot.GetComponent<PlatformerCharacter2D>().m_JumpForce = JumpForce_robot * (-1);
+                }
+                else // si on est en dessous
+                {
+                    robot.GetComponent<Rigidbody2D>().gravityScale = gravity_robot * (-1); // inverse la gravité
+                    robot.transform.SetPositionAndRotation(repspawnPostionUp, repspawnRotationUp); // respawn 
+                    robot.GetComponent<PlatformerCharacter2D>().m_JumpForce = JumpForce_robot * (-1);
+                }
             }
         }
     }
