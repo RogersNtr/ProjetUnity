@@ -144,4 +144,9 @@ public class enemyAI : MonoBehaviour {
             return;
         }
     }
+
+    public void ResetTarget()
+    {
+        this.target = null;
+    }
 }

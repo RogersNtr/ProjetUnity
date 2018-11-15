@@ -1,15 +1,38 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets._2D;
 
 public class KillPlayer : MonoBehaviour
 {
 
+    public Transform spawnPoint;
+    public Transform spawnPoint2;
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.tag == "Enemies")
+        String first = other.gameObject.tag;
+        if (first == "Enemies")
         {
-            Destroy(gameObject);
+            this.transform.SetPositionAndRotation(spawnPoint.position, spawnPoint.rotation); // respawn 
+            String second = this.gameObject.tag;
+            GameObject scndPlayer;
+            if (second == "Player")
+            {
+                scndPlayer = GameObject.FindGameObjectWithTag("Player2");
+                scndPlayer.transform.SetPositionAndRotation(spawnPoint2.position, spawnPoint2.rotation); // respawn 
+
+            }
+            else
+            {
+                scndPlayer = GameObject.FindGameObjectWithTag("Player");
+                scndPlayer.transform.SetPositionAndRotation(spawnPoint2.position, spawnPoint2.rotation); // respawn 
+            }
+            float gravity_robot = this.GetComponent<Rigidbody2D>().gravityScale;
+            float JumpForce_robot = this.GetComponent<PlatformerCharacter2D>().m_JumpForce;
+            this.GetComponent<Rigidbody2D>().gravityScale = Math.Abs(gravity_robot); // remise de la gravité à la normale
+            this.GetComponent<PlatformerCharacter2D>().m_JumpForce = Math.Abs(JumpForce_robot);
+            other.gameObject.GetComponent<enemyAI>().ResetTarget();
         }
     }
 }
