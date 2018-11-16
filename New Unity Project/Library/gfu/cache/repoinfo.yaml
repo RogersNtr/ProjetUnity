@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-11-16T15:03:52.579+01:00
-  initializedAtString: 2018-11-16T15:03:52.579+01:00
+  lastUpdatedAtString: 2018-11-16T18:03:50.840+01:00
+  initializedAtString: 2018-11-16T18:03:50.840+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/RogersNtr/ProjetUnity.git

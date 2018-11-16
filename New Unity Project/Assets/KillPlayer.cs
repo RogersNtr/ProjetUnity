@@ -14,18 +14,19 @@ public class KillPlayer : MonoBehaviour
         String first = other.gameObject.tag;
         if (first == "Enemies" || first == "Traps")
         {
-            this.transform.SetPositionAndRotation(spawnPoint.position, spawnPoint.rotation); // respawn 
             String second = this.gameObject.tag;
             GameObject scndPlayer;
             if (second == "Player")
             {
+                this.transform.SetPositionAndRotation(spawnPoint.position, spawnPoint.rotation); // respawn 
                 scndPlayer = GameObject.FindGameObjectWithTag("Player2");
                 scndPlayer.transform.SetPositionAndRotation(spawnPoint2.position, spawnPoint2.rotation); // respawn
             }
             else
             {
+                this.transform.SetPositionAndRotation(spawnPoint2.position, spawnPoint2.rotation); // respawn 
                 scndPlayer = GameObject.FindGameObjectWithTag("Player");
-                scndPlayer.transform.SetPositionAndRotation(spawnPoint2.position, spawnPoint2.rotation); // respawn 
+                scndPlayer.transform.SetPositionAndRotation(spawnPoint.position, spawnPoint.rotation); // respawn 
             }
             float gravity_robot = this.GetComponent<Rigidbody2D>().gravityScale;
             float JumpForce_robot = this.GetComponent<PlatformerCharacter2D>().m_JumpForce;
