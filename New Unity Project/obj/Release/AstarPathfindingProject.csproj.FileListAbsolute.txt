@@ -195,3 +195,7 @@ C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\AstarPathfindingProject.csproj.CopyComplete
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\AstarPathfindingProject.dll
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\AstarPathfindingProject.pdb
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.csprojAssemblyReference.cache
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.csproj.CoreCompileInputs.cache
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.dll
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.pdb

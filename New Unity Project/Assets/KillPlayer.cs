@@ -9,10 +9,10 @@ public class KillPlayer : MonoBehaviour
 
     public Transform spawnPoint;
     public Transform spawnPoint2;
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnCollisionEnter2D(Collision2D other)
     {
         String first = other.gameObject.tag;
-        if (first == "Enemies")
+        if (first == "Enemies" || first == "Traps")
         {
             this.transform.SetPositionAndRotation(spawnPoint.position, spawnPoint.rotation); // respawn 
             String second = this.gameObject.tag;
@@ -20,8 +20,7 @@ public class KillPlayer : MonoBehaviour
             if (second == "Player")
             {
                 scndPlayer = GameObject.FindGameObjectWithTag("Player2");
-                scndPlayer.transform.SetPositionAndRotation(spawnPoint2.position, spawnPoint2.rotation); // respawn 
-
+                scndPlayer.transform.SetPositionAndRotation(spawnPoint2.position, spawnPoint2.rotation); // respawn
             }
             else
             {
@@ -32,7 +31,8 @@ public class KillPlayer : MonoBehaviour
             float JumpForce_robot = this.GetComponent<PlatformerCharacter2D>().m_JumpForce;
             this.GetComponent<Rigidbody2D>().gravityScale = Math.Abs(gravity_robot); // remise de la gravité à la normale
             this.GetComponent<PlatformerCharacter2D>().m_JumpForce = Math.Abs(JumpForce_robot);
-            other.gameObject.GetComponent<enemyAI>().ResetTarget();
+            if(first == "Enemies")
+                other.gameObject.GetComponent<enemyAI>().ResetTarget();
         }
     }
 }

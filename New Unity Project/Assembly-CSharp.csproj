@@ -64,6 +64,7 @@
     <Compile Include="Assets\ActionMenuPause.cs" />
     <Compile Include="Assets\Detection.cs" />
     <Compile Include="Assets\enemyAI.cs" />
+    <Compile Include="Assets\GameMaster.cs" />
     <Compile Include="Assets\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
     <Compile Include="Assets\KillEnemy.cs" />
     <Compile Include="Assets\KillPlayer.cs" />
@@ -71,6 +72,7 @@
     <Compile Include="Assets\MonMenuPause.cs" />
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\NextLevel.cs" />
+    <Compile Include="Assets\Parallaxing.cs" />
     <Compile Include="Assets\portails\portailHorizontal.cs" />
     <Compile Include="Assets\portails\portailVertical.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
@@ -81,24 +83,26 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\UpAndDown.cs" />
+    <None Include="Assets\Animated Trap\SpriteSheets\Trap.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Cinemachine">
-      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>C:/Users/chamb/Documents/GitHub/ProjetUnity/New Unity Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/chamb/Documents/GitHub/ProjetUnity/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Documents/GitHub/ProjetUnity/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Documents/GitHub/ProjetUnity/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>C:/Users/chamb/Documents/GitHub/ProjetUnity/New Unity Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/chamb/Documents/GitHub/ProjetUnity/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -302,7 +306,7 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.Ionic.Zip.Reduced">
-      <HintPath>C:/Users/chamb/Downloads/ProjetUnity-master/ProjetUnity-master/New Unity Project/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+      <HintPath>C:/Users/chamb/Documents/GitHub/ProjetUnity/New Unity Project/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/chamb/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>

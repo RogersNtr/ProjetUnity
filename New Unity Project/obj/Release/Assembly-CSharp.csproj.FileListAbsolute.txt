@@ -171,3 +171,7 @@ C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\Assembly-CSharp.dll
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\Assembly-CSharp.pdb
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.dll
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.pdb

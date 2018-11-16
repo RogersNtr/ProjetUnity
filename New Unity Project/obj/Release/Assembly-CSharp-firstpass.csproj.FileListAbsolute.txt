@@ -170,3 +170,7 @@ C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\Assembly-CSharp-firstpass.dll
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.dll
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.pdb

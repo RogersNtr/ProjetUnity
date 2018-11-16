@@ -1,2 +1,4 @@
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
 C:\Users\chamb\Downloads\ProjetUnity-master\ProjetUnity-master\New Unity Project\obj\Release\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
+C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache

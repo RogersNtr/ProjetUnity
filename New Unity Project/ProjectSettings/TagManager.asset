@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Enemies
   - Player2
+  - Backgrounds
+  - GM
+  - Traps
   layers:
   - Default
   - TransparentFX
