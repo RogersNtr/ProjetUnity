@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 2145
+  controlID: 3937
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -156,9 +156,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6e35ffff
-    m_LastClickedID: -51858
-    m_ExpandedIDs: c8f8ffffbcfbffff00000000
+    m_SelectedIDs: ea470000
+    m_LastClickedID: 18410
+    m_ExpandedIDs: c8f8ffffbcfbffff000000009e470000ba470000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -205,7 +205,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 2146
+  controlID: 3938
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -260,14 +260,14 @@ MonoBehaviour:
     height: 343
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 1750.758198763533
+  lastFramingTime: 758.4049198070627
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 31.94467, y: 4.367058, z: -0.017310767}
+    m_Target: {x: 20.130802, y: 17.308334, z: -1.0132855}
     speed: 2
-    m_Value: {x: 31.94467, y: 4.367058, z: -0.017310767}
+    m_Value: {x: 20.130802, y: 17.308334, z: -1.0132855}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -299,9 +299,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 7.8887844
+    m_Target: 109.72429
     speed: 2
-    m_Value: 7.8887844
+    m_Value: 109.72429
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -494,20 +494,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/BayatGames/Free Platform Game Assets/Enemies/png/512x512
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/BayatGames/Free Platform Game Assets/Enemies/png/512x512
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 223}
-    m_SelectedIDs: 5e3a0000
-    m_LastClickedID: 14942
-    m_ExpandedIDs: 00000000fa2f00006c30000036320000e0320000ee320000be33000068340000a6340000d2340000f83600009e370000ca370000e6370000283900008a3b0000503c0000983e0000b83e0000cc3e0000623f0000643f0000204000004a400000564100002642000076420000804200000c4a00000e4a000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: fa2f0000
+    m_LastClickedID: 12282
+    m_ExpandedIDs: 00000000fa2f00006c30000036320000e0320000ee320000be33000068340000a6340000d2340000f83600009e370000ca370000e6370000283900008a3b0000503c0000983e0000b83e0000cc3e0000623f0000643f0000204000004a40000056410000264200007642000080420000244a0000264a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -535,7 +535,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fa2f00006c30000036320000e0320000ee320000be33000068340000a6340000d2340000f83600009e370000ca370000e6370000283900008a3b0000503c0000983e0000b83e0000cc3e0000623f0000643f0000204000004a400000564100002642000076420000804200000c4a00000e4a000000ca9a3b
+    m_ExpandedIDs: 00000000fa2f00006c30000036320000e0320000ee320000be33000068340000a6340000d2340000f83600009e370000ca370000e6370000283900008a3b0000503c0000983e0000b83e0000cc3e0000623f0000643f0000204000004a40000056410000264200007642000080420000244a0000264a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -560,8 +560,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 6e35ffff
-    m_LastClickedInstanceID: -51858
+    m_SelectedInstanceIDs: ea470000
+    m_LastClickedInstanceID: 18410
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 4c760000000000001431010056390000
     m_RenameOverlay:
@@ -587,7 +587,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 87}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 80
 --- !u!114 &12
