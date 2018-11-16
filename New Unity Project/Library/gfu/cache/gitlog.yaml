@@ -12,9 +12,3485 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-11-15T14:33:30.087+01:00
-  initializedAtString: 2018-11-15T14:33:11.847+01:00
+  lastUpdatedAtString: 2018-11-16T18:07:23.356+01:00
+  initializedAtString: 2018-11-16T18:07:23.356+01:00
   log:
+  - commitID: b395d3a9878edce69250d969fb12635de5bf0d98
+    mergeA: 
+    mergeB: 
+    authorName: ChambreMichael
+    authorEmail: chambre.micha@orange.fr
+    commitEmail: chambre.micha@orange.fr
+    commitName: ChambreMichael
+    summary: quick fix
+    description: quick fix
+    timeString: 2018-11-16T18:06:54.000+01:00
+    commitTimeString: 2018-11-16T18:06:54.000+01:00
+    changes:
+    - path: New Unity Project\.vs\New Unity Project\v15\.suo
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\.suo
+      projectPath: .vs\New Unity Project\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assets\KillPlayer.cs
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\KillPlayer.cs
+      projectPath: Assets\KillPlayer.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assets\Scenes\Niveau_1.unity
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Scenes\Niveau_1.unity
+      projectPath: Assets\Scenes\Niveau_1.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\CrashedAssetImports.txt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\assetDatabase3
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+      projectPath: Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 5e75e7aa80354b7ac4058e43f6b5c7b608a8b662
+    mergeA: 
+    mergeB: 
+    authorName: ChambreMichael
+    authorEmail: chambre.micha@orange.fr
+    commitEmail: chambre.micha@orange.fr
+    commitName: ChambreMichael
+    summary: quick fixes
+    description: quick fixes
+    timeString: 2018-11-16T17:46:54.000+01:00
+    commitTimeString: 2018-11-16T17:46:54.000+01:00
+    changes:
+    - path: New Unity Project\.vs\New Unity Project\v15\.suo
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\.suo
+      projectPath: .vs\New Unity Project\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assets\Scenes\Niveau_1.unity
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Scenes\Niveau_1.unity
+      projectPath: Assets\Scenes\Niveau_1.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\assetDatabase3
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a87f88bb78844b264fb581aec639188cd608b949
+    mergeA: 
+    mergeB: 
+    authorName: ChambreMichael
+    authorEmail: chambre.micha@orange.fr
+    commitEmail: chambre.micha@orange.fr
+    commitName: ChambreMichael
+    summary: traps are good now
+    description: traps are good now
+    timeString: 2018-11-16T12:38:13.000+01:00
+    commitTimeString: 2018-11-16T12:38:13.000+01:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\.vs\New Unity Project\v15\.suo
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\.suo
+      projectPath: .vs\New Unity Project\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+        Unity Project\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assembly-CSharp-firstpass.csproj
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assembly-CSharp-firstpass.csproj
+      projectPath: Assembly-CSharp-firstpass.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assembly-CSharp.csproj
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap.meta
+      projectPath: Assets\Animated Trap.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\2D Trap.unity
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\2D Trap.unity
+      projectPath: Assets\Animated Trap\2D Trap.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\2D Trap.unity.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\2D Trap.unity.meta
+      projectPath: Assets\Animated Trap\2D Trap.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames.meta
+      projectPath: Assets\Animated Trap\Frames.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap.meta
+      projectPath: Assets\Animated Trap\Frames\Trap.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00000.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00000.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00000.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00000.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00000.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00000.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00001.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00001.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00001.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00001.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00001.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00001.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00002.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00002.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00002.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00002.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00002.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00002.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00003.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00003.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00003.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00003.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00003.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00003.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00004.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00004.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00004.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00004.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00004.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00004.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00005.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00005.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00005.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00005.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00005.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00005.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00006.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00006.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00006.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00006.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00006.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00006.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00007.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00007.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00007.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00007.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00007.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00007.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00008.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00008.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00008.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00008.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00008.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00008.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00009.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00009.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00009.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00009.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00009.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00009.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00010.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00010.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00010.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00010.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00010.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00010.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00011.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00011.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00011.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00011.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00011.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00011.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00012.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00012.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00012.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00012.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00012.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00012.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00013.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00013.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00013.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00013.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00013.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00013.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00014.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00014.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00014.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00014.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00014.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00014.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00015.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00015.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00015.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00015.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00015.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00015.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00016.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00016.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00016.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00016.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00016.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00016.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00017.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00017.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00017.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00017.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00017.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00017.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00018.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00018.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00018.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00018.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00018.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00018.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00019.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00019.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00019.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00019.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00019.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00019.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00020.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00020.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00020.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00020.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00020.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00020.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00021.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00021.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00021.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00021.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00021.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00021.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00022.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00022.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00022.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00022.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00022.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00022.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00023.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00023.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00023.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00023.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00023.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00023.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00024.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00024.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00024.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00024.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00024.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00024.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00025.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00025.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00025.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00025.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00025.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00025.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00026.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00026.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00026.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00026.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00026.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00026.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00027.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00027.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00027.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00027.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00027.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00027.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00028.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00028.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00028.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00028.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00028.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00028.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00029.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00029.png
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00029.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Frames\Trap\Trap_00029.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Frames\Trap\Trap_00029.png.meta
+      projectPath: Assets\Animated Trap\Frames\Trap\Trap_00029.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Prefabs.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Prefabs.meta
+      projectPath: Assets\Animated Trap\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Prefabs\Mace_up.prefab
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Prefabs\Mace_up.prefab
+      projectPath: Assets\Animated Trap\Prefabs\Mace_up.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Prefabs\Mace_up.prefab.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Prefabs\Mace_up.prefab.meta
+      projectPath: Assets\Animated Trap\Prefabs\Mace_up.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Prefabs\Saw_up.prefab
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Prefabs\Saw_up.prefab
+      projectPath: Assets\Animated Trap\Prefabs\Saw_up.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Prefabs\Saw_up.prefab.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Prefabs\Saw_up.prefab.meta
+      projectPath: Assets\Animated Trap\Prefabs\Saw_up.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Prefabs\Trap.prefab
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Prefabs\Trap.prefab
+      projectPath: Assets\Animated Trap\Prefabs\Trap.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\Prefabs\Trap.prefab.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\Prefabs\Trap.prefab.meta
+      projectPath: Assets\Animated Trap\Prefabs\Trap.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets.meta
+      projectPath: Assets\Animated Trap\SpriteSheets.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets\Trap.anim
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets\Trap.anim
+      projectPath: Assets\Animated Trap\SpriteSheets\Trap.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets\Trap.anim.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets\Trap.anim.meta
+      projectPath: Assets\Animated Trap\SpriteSheets\Trap.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets\Trap.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets\Trap.png
+      projectPath: Assets\Animated Trap\SpriteSheets\Trap.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets\Trap.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets\Trap.png.meta
+      projectPath: Assets\Animated Trap\SpriteSheets\Trap.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets\Trap.txt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets\Trap.txt
+      projectPath: Assets\Animated Trap\SpriteSheets\Trap.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets\Trap.txt.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets\Trap.txt.meta
+      projectPath: Assets\Animated Trap\SpriteSheets\Trap.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets\Trap_0.controller
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets\Trap_0.controller
+      projectPath: Assets\Animated Trap\SpriteSheets\Trap_0.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\Animated Trap\SpriteSheets\Trap_0.controller.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Animated
+        Trap\SpriteSheets\Trap_0.controller.meta
+      projectPath: Assets\Animated Trap\SpriteSheets\Trap_0.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames.meta
+      projectPath: Assets\BayatGames.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\ai.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\ai.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\ai.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Mace.ai
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\ai\Mace.ai
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Mace.ai
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Mace.ai.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\ai\Mace.ai.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Mace.ai.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Saw.ai
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\ai\Saw.ai
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Saw.ai
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Saw.ai.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\ai\Saw.ai.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Saw.ai.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Spike.ai
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\ai\Spike.ai
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Spike.ai
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Spike.ai.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\ai\Spike.ai.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\ai\Spike.ai.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\eps.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\eps.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\eps.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Mace.eps
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\eps\Mace.eps
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Mace.eps
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Mace.eps.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\eps\Mace.eps.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Mace.eps.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Saw.eps
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\eps\Saw.eps
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Saw.eps
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Saw.eps.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\eps\Saw.eps.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Saw.eps.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Spike.eps
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\eps\Spike.eps
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Spike.eps
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Spike.eps.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\eps\Spike.eps.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\eps\Spike.eps.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Mac
+        128.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Mac 128.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Mac
+        128.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Mac
+        128.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Mac 128.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Mac
+        128.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Mace.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Mace.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Mace.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Mace.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Mace.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Mace.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Saw.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Saw.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Saw.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Saw.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Saw.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Saw.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_Left&down.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Spike_Left&down.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_Left&down.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_Left&down.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Spike_Left&down.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_Left&down.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_Up.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Spike_Up.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_Up.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_Up.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Spike_Up.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_Up.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_down.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Spike_down.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_down.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_down.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\128x128\Spike_down.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\128x128\Spike_down.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Eyelid
+        256.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Eyelid 256.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Eyelid
+        256.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Eyelid
+        256.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Eyelid 256.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Eyelid
+        256.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Mac
+        256.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Mac 256.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Mac
+        256.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Mac
+        256.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Mac 256.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Mac
+        256.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Mace.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Mace.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Mace.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Mace.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Mace.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Mace.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Pupil
+        256.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Pupil 256.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Pupil
+        256.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Pupil
+        256.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Pupil 256.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Pupil
+        256.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Saw.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Saw.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Saw.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Saw.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\Saw.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\Saw.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\eye
+        256.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\eye 256.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\eye
+        256.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\eye
+        256.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\256x256\eye 256.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\256x256\eye
+        256.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\32x32.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Down.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\32x32\Spike_Down.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Down.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Down.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\32x32\Spike_Down.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Down.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Left&Right.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\32x32\Spike_Left&Right.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Left&Right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Left&Right.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\32x32\Spike_Left&Right.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Left&Right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Up.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\32x32\Spike_Up.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Up.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Up.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\32x32\Spike_Up.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\32x32\Spike_Up.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Eyelid
+        512.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Eyelid 512.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Eyelid
+        512.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Eyelid
+        512.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Eyelid 512.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Eyelid
+        512.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Mac
+        512.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Mac 512.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Mac
+        512.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Mac
+        512.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Mac 512.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Mac
+        512.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Mace.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Mace.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Mace.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Mace.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Mace.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Mace.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Pupil
+        512.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Pupil 512.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Pupil
+        512.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Pupil
+        512.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Pupil 512.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Pupil
+        512.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Saw.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Saw.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Saw.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Saw.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\Saw.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\Saw.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\eye
+        512.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\eye 512.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\eye
+        512.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\eye
+        512.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\512x512\eye 512.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\512x512\eye
+        512.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\64x64.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Down.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\64x64\Spike_Down.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Down.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Down.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\64x64\Spike_Down.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Down.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Left&Right.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\64x64\Spike_Left&Right.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Left&Right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Left&Right.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\64x64\Spike_Left&Right.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Left&Right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Up.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\64x64\Spike_Up.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Up.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Up.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Enemies\png\64x64\Spike_Up.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Enemies\png\64x64\Spike_Up.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\ai.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Mace.ai
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\ai\Mace.ai
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Mace.ai
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Mace.ai.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\ai\Mace.ai.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Mace.ai.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Saw.ai
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\ai\Saw.ai
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Saw.ai
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Saw.ai.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\ai\Saw.ai.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Saw.ai.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Spike.ai
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\ai\Spike.ai
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Spike.ai
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Spike.ai.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\ai\Spike.ai.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\ai\Spike.ai.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\eps.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Mace.eps
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\eps\Mace.eps
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Mace.eps
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Mace.eps.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\eps\Mace.eps.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Mace.eps.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Saw.eps
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\eps\Saw.eps
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Saw.eps
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Saw.eps.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\eps\Saw.eps.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Saw.eps.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Spike.eps
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\eps\Spike.eps
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Spike.eps
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Spike.eps.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\eps\Spike.eps.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\eps\Spike.eps.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Mace.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Mace.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Mace.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Mace.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Mace.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Mace.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Saw.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Saw.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Saw.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Saw.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Saw.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Saw.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Down.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Down.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Down.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Down.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Down.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Down.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Left&Right.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Left&Right.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Left&Right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Left&Right.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Left&Right.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Left&Right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Up.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Up.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Up.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Up.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Up.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\128x128\Spike_Up.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\256x256.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256\Mace.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\256x256\Mace.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256\Mace.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256\Mace.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\256x256\Mace.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256\Mace.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256\Saw.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\256x256\Saw.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256\Saw.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256\Saw.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\256x256\Saw.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\256x256\Saw.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\32x32.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Down.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Down.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Down.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Down.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Down.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Down.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Left&Right.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Left&Right.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Left&Right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Left&Right.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Left&Right.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Left&Right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Up.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Up.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Up.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Up.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Up.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\32x32\Spike_Up.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\512x512.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512\Mace.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\512x512\Mace.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512\Mace.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512\Mace.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\512x512\Mace.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512\Mace.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512\Saw.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\512x512\Saw.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512\Saw.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512\Saw.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\512x512\Saw.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\512x512\Saw.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\64x64.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Down.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Down.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Down.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Down.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Down.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Down.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Left&Right.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Left&Right.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Left&Right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Left&Right.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Left&Right.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Left&Right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Up.png
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Up.png
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Up.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Up.png.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\BayatGames\Free
+        Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Up.png.meta
+      projectPath: Assets\BayatGames\Free Platform Game Assets\Mace&Saw&Spike\png\64x64\Spike_Up.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\KillEnemy.cs
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\KillEnemy.cs
+      projectPath: Assets\KillEnemy.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assets\KillPlayer.cs
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\KillPlayer.cs
+      projectPath: Assets\KillPlayer.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assets\Scenes\Niveau_1.unity
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Scenes\Niveau_1.unity
+      projectPath: Assets\Scenes\Niveau_1.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Assets\UpAndDown.cs
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\UpAndDown.cs
+      projectPath: Assets\UpAndDown.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Assets\UpAndDown.cs.meta
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\UpAndDown.cs.meta
+      projectPath: Assets\UpAndDown.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\AstarPathfindingProjectEditor.csproj
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\AstarPathfindingProjectEditor.csproj
+      projectPath: AstarPathfindingProjectEditor.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\Collab\CollabSnapshot_adf094b1-adec-4ac8-b0f8-ab7516e88e0e.txt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\Collab\CollabSnapshot_adf094b1-adec-4ac8-b0f8-ab7516e88e0e.txt
+      projectPath: Library\Collab\CollabSnapshot_adf094b1-adec-4ac8-b0f8-ab7516e88e0e.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ProjectSettings.asset
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ProjectSettings.asset
+      projectPath: Library\ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\AstarPathfindingProject.dll.mdb
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\AstarPathfindingProject.dll.mdb
+      projectPath: Library\ScriptAssemblies\AstarPathfindingProject.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\AstarPathfindingProjectEditor.dll.mdb
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\AstarPathfindingProjectEditor.dll.mdb
+      projectPath: Library\ScriptAssemblies\AstarPathfindingProjectEditor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ScriptAssemblies\PackageToolsEditor.dll.mdb
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\PackageToolsEditor.dll.mdb
+      projectPath: Library\ScriptAssemblies\PackageToolsEditor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\assetDatabase3
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\expandedItems
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\04\04d191d5668642d448396ed8684502c7
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\04\04d191d5668642d448396ed8684502c7
+      projectPath: Library\metadata\04\04d191d5668642d448396ed8684502c7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\04\04d191d5668642d448396ed8684502c7.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\04\04d191d5668642d448396ed8684502c7.info
+      projectPath: Library\metadata\04\04d191d5668642d448396ed8684502c7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\04\04ff579bf59f44a4ca4240611b3205ab
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\04\04ff579bf59f44a4ca4240611b3205ab
+      projectPath: Library\metadata\04\04ff579bf59f44a4ca4240611b3205ab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\04\04ff579bf59f44a4ca4240611b3205ab.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\04\04ff579bf59f44a4ca4240611b3205ab.info
+      projectPath: Library\metadata\04\04ff579bf59f44a4ca4240611b3205ab.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\08\08b309730abc8cd4ebe31cbe3a39eb4e
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\08\08b309730abc8cd4ebe31cbe3a39eb4e
+      projectPath: Library\metadata\08\08b309730abc8cd4ebe31cbe3a39eb4e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\08\08b309730abc8cd4ebe31cbe3a39eb4e.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\08\08b309730abc8cd4ebe31cbe3a39eb4e.info
+      projectPath: Library\metadata\08\08b309730abc8cd4ebe31cbe3a39eb4e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\0a\0acf75e9c627f8e428477ada7e5527f4
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\0a\0acf75e9c627f8e428477ada7e5527f4
+      projectPath: Library\metadata\0a\0acf75e9c627f8e428477ada7e5527f4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\0a\0acf75e9c627f8e428477ada7e5527f4.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\0a\0acf75e9c627f8e428477ada7e5527f4.info
+      projectPath: Library\metadata\0a\0acf75e9c627f8e428477ada7e5527f4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\0d\0d21968c0a3661243b89705a9206e2f8
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\0d\0d21968c0a3661243b89705a9206e2f8
+      projectPath: Library\metadata\0d\0d21968c0a3661243b89705a9206e2f8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\0d\0d21968c0a3661243b89705a9206e2f8.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\0d\0d21968c0a3661243b89705a9206e2f8.info
+      projectPath: Library\metadata\0d\0d21968c0a3661243b89705a9206e2f8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\10\10702a1eea006984f8ab9497bd997110
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\10\10702a1eea006984f8ab9497bd997110
+      projectPath: Library\metadata\10\10702a1eea006984f8ab9497bd997110
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\10\10702a1eea006984f8ab9497bd997110.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\10\10702a1eea006984f8ab9497bd997110.info
+      projectPath: Library\metadata\10\10702a1eea006984f8ab9497bd997110.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\17\1723861369773f349be4c449aa64fe19
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\17\1723861369773f349be4c449aa64fe19
+      projectPath: Library\metadata\17\1723861369773f349be4c449aa64fe19
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\17\1723861369773f349be4c449aa64fe19.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\17\1723861369773f349be4c449aa64fe19.info
+      projectPath: Library\metadata\17\1723861369773f349be4c449aa64fe19.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\18\18248dcdaf98ac345b877b6b093a4a24
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\18\18248dcdaf98ac345b877b6b093a4a24
+      projectPath: Library\metadata\18\18248dcdaf98ac345b877b6b093a4a24
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\18\18248dcdaf98ac345b877b6b093a4a24.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\18\18248dcdaf98ac345b877b6b093a4a24.info
+      projectPath: Library\metadata\18\18248dcdaf98ac345b877b6b093a4a24.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\19\19cf04f89a4433840810fafee23f6922
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\19\19cf04f89a4433840810fafee23f6922
+      projectPath: Library\metadata\19\19cf04f89a4433840810fafee23f6922
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\19\19cf04f89a4433840810fafee23f6922.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\19\19cf04f89a4433840810fafee23f6922.info
+      projectPath: Library\metadata\19\19cf04f89a4433840810fafee23f6922.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\1a\1a2ba4e8e3c6a3f418d451b3abc0ef45
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\1a\1a2ba4e8e3c6a3f418d451b3abc0ef45
+      projectPath: Library\metadata\1a\1a2ba4e8e3c6a3f418d451b3abc0ef45
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\1a\1a2ba4e8e3c6a3f418d451b3abc0ef45.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\1a\1a2ba4e8e3c6a3f418d451b3abc0ef45.info
+      projectPath: Library\metadata\1a\1a2ba4e8e3c6a3f418d451b3abc0ef45.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\1c\1c2fba92a8b514049b477f6aa5e46278
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\1c\1c2fba92a8b514049b477f6aa5e46278
+      projectPath: Library\metadata\1c\1c2fba92a8b514049b477f6aa5e46278
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\1c\1c2fba92a8b514049b477f6aa5e46278.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\1c\1c2fba92a8b514049b477f6aa5e46278.info
+      projectPath: Library\metadata\1c\1c2fba92a8b514049b477f6aa5e46278.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\1d\1d0703ceefc36f44ca5ed984c070e25f
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\1d\1d0703ceefc36f44ca5ed984c070e25f
+      projectPath: Library\metadata\1d\1d0703ceefc36f44ca5ed984c070e25f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\1d\1d0703ceefc36f44ca5ed984c070e25f.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\1d\1d0703ceefc36f44ca5ed984c070e25f.info
+      projectPath: Library\metadata\1d\1d0703ceefc36f44ca5ed984c070e25f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\1f\1f97a61e02a8b4141a7aada8da9d1cce
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\1f\1f97a61e02a8b4141a7aada8da9d1cce
+      projectPath: Library\metadata\1f\1f97a61e02a8b4141a7aada8da9d1cce
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\1f\1f97a61e02a8b4141a7aada8da9d1cce.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\1f\1f97a61e02a8b4141a7aada8da9d1cce.info
+      projectPath: Library\metadata\1f\1f97a61e02a8b4141a7aada8da9d1cce.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\21\21cd5e9891ca1e44b8639a77aa20401e
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\21\21cd5e9891ca1e44b8639a77aa20401e
+      projectPath: Library\metadata\21\21cd5e9891ca1e44b8639a77aa20401e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\21\21cd5e9891ca1e44b8639a77aa20401e.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\21\21cd5e9891ca1e44b8639a77aa20401e.info
+      projectPath: Library\metadata\21\21cd5e9891ca1e44b8639a77aa20401e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\22\22e695288cf81954d8fe99b678d30dea
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\22\22e695288cf81954d8fe99b678d30dea
+      projectPath: Library\metadata\22\22e695288cf81954d8fe99b678d30dea
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\22\22e695288cf81954d8fe99b678d30dea.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\22\22e695288cf81954d8fe99b678d30dea.info
+      projectPath: Library\metadata\22\22e695288cf81954d8fe99b678d30dea.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\25\25a52a999d74a9849aaf4b38933cf332
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\25\25a52a999d74a9849aaf4b38933cf332
+      projectPath: Library\metadata\25\25a52a999d74a9849aaf4b38933cf332
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\25\25a52a999d74a9849aaf4b38933cf332.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\25\25a52a999d74a9849aaf4b38933cf332.info
+      projectPath: Library\metadata\25\25a52a999d74a9849aaf4b38933cf332.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\27\270740f68cd761a41b7cef84c0c587e7
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\27\270740f68cd761a41b7cef84c0c587e7
+      projectPath: Library\metadata\27\270740f68cd761a41b7cef84c0c587e7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\27\270740f68cd761a41b7cef84c0c587e7.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\27\270740f68cd761a41b7cef84c0c587e7.info
+      projectPath: Library\metadata\27\270740f68cd761a41b7cef84c0c587e7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\27\275d0d77d510eeb49af74128fc778c50
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\27\275d0d77d510eeb49af74128fc778c50
+      projectPath: Library\metadata\27\275d0d77d510eeb49af74128fc778c50
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\27\275d0d77d510eeb49af74128fc778c50.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\27\275d0d77d510eeb49af74128fc778c50.info
+      projectPath: Library\metadata\27\275d0d77d510eeb49af74128fc778c50.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\28\289140e13df26d54cae6437e3e4a56d8
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\28\289140e13df26d54cae6437e3e4a56d8
+      projectPath: Library\metadata\28\289140e13df26d54cae6437e3e4a56d8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\28\289140e13df26d54cae6437e3e4a56d8.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\28\289140e13df26d54cae6437e3e4a56d8.info
+      projectPath: Library\metadata\28\289140e13df26d54cae6437e3e4a56d8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\28\28a2c09e8888bf74094a0ef00d458c4f
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\28\28a2c09e8888bf74094a0ef00d458c4f
+      projectPath: Library\metadata\28\28a2c09e8888bf74094a0ef00d458c4f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\28\28a2c09e8888bf74094a0ef00d458c4f.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\28\28a2c09e8888bf74094a0ef00d458c4f.info
+      projectPath: Library\metadata\28\28a2c09e8888bf74094a0ef00d458c4f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\28\28a4ba675c8332240aba865d3165afb0
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\28\28a4ba675c8332240aba865d3165afb0
+      projectPath: Library\metadata\28\28a4ba675c8332240aba865d3165afb0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\28\28a4ba675c8332240aba865d3165afb0.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\28\28a4ba675c8332240aba865d3165afb0.info
+      projectPath: Library\metadata\28\28a4ba675c8332240aba865d3165afb0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2b\2b2fc63f0f86950428bc47d038c812a2
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2b\2b2fc63f0f86950428bc47d038c812a2
+      projectPath: Library\metadata\2b\2b2fc63f0f86950428bc47d038c812a2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2b\2b2fc63f0f86950428bc47d038c812a2.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2b\2b2fc63f0f86950428bc47d038c812a2.info
+      projectPath: Library\metadata\2b\2b2fc63f0f86950428bc47d038c812a2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2c\2cd878df641ddca45865ecff046eb020
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2c\2cd878df641ddca45865ecff046eb020
+      projectPath: Library\metadata\2c\2cd878df641ddca45865ecff046eb020
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2c\2cd878df641ddca45865ecff046eb020.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2c\2cd878df641ddca45865ecff046eb020.info
+      projectPath: Library\metadata\2c\2cd878df641ddca45865ecff046eb020.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2e\2ed1f871ba0447e4fb814c84dee4bc43
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2e\2ed1f871ba0447e4fb814c84dee4bc43
+      projectPath: Library\metadata\2e\2ed1f871ba0447e4fb814c84dee4bc43
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2e\2ed1f871ba0447e4fb814c84dee4bc43.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2e\2ed1f871ba0447e4fb814c84dee4bc43.info
+      projectPath: Library\metadata\2e\2ed1f871ba0447e4fb814c84dee4bc43.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2f\2f13003d08a96bd44a6f9e49d680a3b1
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2f\2f13003d08a96bd44a6f9e49d680a3b1
+      projectPath: Library\metadata\2f\2f13003d08a96bd44a6f9e49d680a3b1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2f\2f13003d08a96bd44a6f9e49d680a3b1.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2f\2f13003d08a96bd44a6f9e49d680a3b1.info
+      projectPath: Library\metadata\2f\2f13003d08a96bd44a6f9e49d680a3b1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2f\2fe929599704139498fab9332f18062e
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2f\2fe929599704139498fab9332f18062e
+      projectPath: Library\metadata\2f\2fe929599704139498fab9332f18062e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\2f\2fe929599704139498fab9332f18062e.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\2f\2fe929599704139498fab9332f18062e.info
+      projectPath: Library\metadata\2f\2fe929599704139498fab9332f18062e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\30\30886f6c39fc7b246ae59ed7f03ba2ee
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\30\30886f6c39fc7b246ae59ed7f03ba2ee
+      projectPath: Library\metadata\30\30886f6c39fc7b246ae59ed7f03ba2ee
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\30\30886f6c39fc7b246ae59ed7f03ba2ee.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\30\30886f6c39fc7b246ae59ed7f03ba2ee.info
+      projectPath: Library\metadata\30\30886f6c39fc7b246ae59ed7f03ba2ee.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\31\3108dee073e99a243a38cb9ad97e7761
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\31\3108dee073e99a243a38cb9ad97e7761
+      projectPath: Library\metadata\31\3108dee073e99a243a38cb9ad97e7761
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\31\3108dee073e99a243a38cb9ad97e7761.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\31\3108dee073e99a243a38cb9ad97e7761.info
+      projectPath: Library\metadata\31\3108dee073e99a243a38cb9ad97e7761.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\32\3261f0994f76e644086b4b236c61bda0
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\32\3261f0994f76e644086b4b236c61bda0
+      projectPath: Library\metadata\32\3261f0994f76e644086b4b236c61bda0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\32\3261f0994f76e644086b4b236c61bda0.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\32\3261f0994f76e644086b4b236c61bda0.info
+      projectPath: Library\metadata\32\3261f0994f76e644086b4b236c61bda0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\39\39083c1a5e542cf4eb52b035ee5a17df
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\39\39083c1a5e542cf4eb52b035ee5a17df
+      projectPath: Library\metadata\39\39083c1a5e542cf4eb52b035ee5a17df
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\39\39083c1a5e542cf4eb52b035ee5a17df.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\39\39083c1a5e542cf4eb52b035ee5a17df.info
+      projectPath: Library\metadata\39\39083c1a5e542cf4eb52b035ee5a17df.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3b\3b72b88c74886834da1ae5d70dd49b83
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3b\3b72b88c74886834da1ae5d70dd49b83
+      projectPath: Library\metadata\3b\3b72b88c74886834da1ae5d70dd49b83
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3b\3b72b88c74886834da1ae5d70dd49b83.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3b\3b72b88c74886834da1ae5d70dd49b83.info
+      projectPath: Library\metadata\3b\3b72b88c74886834da1ae5d70dd49b83.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3b\3bd12680468c430408911bcd135b0ebe
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3b\3bd12680468c430408911bcd135b0ebe
+      projectPath: Library\metadata\3b\3bd12680468c430408911bcd135b0ebe
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3b\3bd12680468c430408911bcd135b0ebe.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3b\3bd12680468c430408911bcd135b0ebe.info
+      projectPath: Library\metadata\3b\3bd12680468c430408911bcd135b0ebe.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3c\3c38736ef24f4a9409aad74bd58caf6a
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3c\3c38736ef24f4a9409aad74bd58caf6a
+      projectPath: Library\metadata\3c\3c38736ef24f4a9409aad74bd58caf6a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3c\3c38736ef24f4a9409aad74bd58caf6a.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3c\3c38736ef24f4a9409aad74bd58caf6a.info
+      projectPath: Library\metadata\3c\3c38736ef24f4a9409aad74bd58caf6a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3d\3d9bbc3eb802abb478663a9e4c5f011c
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3d\3d9bbc3eb802abb478663a9e4c5f011c
+      projectPath: Library\metadata\3d\3d9bbc3eb802abb478663a9e4c5f011c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3d\3d9bbc3eb802abb478663a9e4c5f011c.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3d\3d9bbc3eb802abb478663a9e4c5f011c.info
+      projectPath: Library\metadata\3d\3d9bbc3eb802abb478663a9e4c5f011c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3e\3ea446e72eab22e458f18a5c68b391b2
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3e\3ea446e72eab22e458f18a5c68b391b2
+      projectPath: Library\metadata\3e\3ea446e72eab22e458f18a5c68b391b2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3e\3ea446e72eab22e458f18a5c68b391b2.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3e\3ea446e72eab22e458f18a5c68b391b2.info
+      projectPath: Library\metadata\3e\3ea446e72eab22e458f18a5c68b391b2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3f\3fc66985452de6e4fb6a8db834641c3c
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3f\3fc66985452de6e4fb6a8db834641c3c
+      projectPath: Library\metadata\3f\3fc66985452de6e4fb6a8db834641c3c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\3f\3fc66985452de6e4fb6a8db834641c3c.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\3f\3fc66985452de6e4fb6a8db834641c3c.info
+      projectPath: Library\metadata\3f\3fc66985452de6e4fb6a8db834641c3c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\42\42f790e927ea2d64a97d9e0b21bf7303
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\42\42f790e927ea2d64a97d9e0b21bf7303
+      projectPath: Library\metadata\42\42f790e927ea2d64a97d9e0b21bf7303
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\42\42f790e927ea2d64a97d9e0b21bf7303.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\42\42f790e927ea2d64a97d9e0b21bf7303.info
+      projectPath: Library\metadata\42\42f790e927ea2d64a97d9e0b21bf7303.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\44\441e5664a9a499f4c98445145f87caf2
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\44\441e5664a9a499f4c98445145f87caf2
+      projectPath: Library\metadata\44\441e5664a9a499f4c98445145f87caf2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\44\441e5664a9a499f4c98445145f87caf2.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\44\441e5664a9a499f4c98445145f87caf2.info
+      projectPath: Library\metadata\44\441e5664a9a499f4c98445145f87caf2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\44\449c18426d3aaaf4c8fb7d6f9ac8ce3d
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\44\449c18426d3aaaf4c8fb7d6f9ac8ce3d
+      projectPath: Library\metadata\44\449c18426d3aaaf4c8fb7d6f9ac8ce3d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\44\449c18426d3aaaf4c8fb7d6f9ac8ce3d.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\44\449c18426d3aaaf4c8fb7d6f9ac8ce3d.info
+      projectPath: Library\metadata\44\449c18426d3aaaf4c8fb7d6f9ac8ce3d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\45\454fa96b2fe6ad049ad75afc7839dd50
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\45\454fa96b2fe6ad049ad75afc7839dd50
+      projectPath: Library\metadata\45\454fa96b2fe6ad049ad75afc7839dd50
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\45\454fa96b2fe6ad049ad75afc7839dd50.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\45\454fa96b2fe6ad049ad75afc7839dd50.info
+      projectPath: Library\metadata\45\454fa96b2fe6ad049ad75afc7839dd50.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\46\4664b35f96f0998408114e59d9f70754
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\46\4664b35f96f0998408114e59d9f70754
+      projectPath: Library\metadata\46\4664b35f96f0998408114e59d9f70754
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\46\4664b35f96f0998408114e59d9f70754.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\46\4664b35f96f0998408114e59d9f70754.info
+      projectPath: Library\metadata\46\4664b35f96f0998408114e59d9f70754.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\49\493c30471c56e4744ac9962da0fcfad0
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\49\493c30471c56e4744ac9962da0fcfad0
+      projectPath: Library\metadata\49\493c30471c56e4744ac9962da0fcfad0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\metadata\4a\4af257b860306c24e921990fdecc61c0
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\4a\4af257b860306c24e921990fdecc61c0
+      projectPath: Library\metadata\4a\4af257b860306c24e921990fdecc61c0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\4a\4af257b860306c24e921990fdecc61c0.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\4a\4af257b860306c24e921990fdecc61c0.info
+      projectPath: Library\metadata\4a\4af257b860306c24e921990fdecc61c0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\50\501514b544b234f469faa836f0c7186d
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\50\501514b544b234f469faa836f0c7186d
+      projectPath: Library\metadata\50\501514b544b234f469faa836f0c7186d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\50\501514b544b234f469faa836f0c7186d.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\50\501514b544b234f469faa836f0c7186d.info
+      projectPath: Library\metadata\50\501514b544b234f469faa836f0c7186d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\50\50dcc9049e1e83948bad98e51ada1c9d
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\50\50dcc9049e1e83948bad98e51ada1c9d
+      projectPath: Library\metadata\50\50dcc9049e1e83948bad98e51ada1c9d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\50\50dcc9049e1e83948bad98e51ada1c9d.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\50\50dcc9049e1e83948bad98e51ada1c9d.info
+      projectPath: Library\metadata\50\50dcc9049e1e83948bad98e51ada1c9d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\51\51b16a81a8ab71142b9ccecdda673afa
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\51\51b16a81a8ab71142b9ccecdda673afa
+      projectPath: Library\metadata\51\51b16a81a8ab71142b9ccecdda673afa
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\51\51b16a81a8ab71142b9ccecdda673afa.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\51\51b16a81a8ab71142b9ccecdda673afa.info
+      projectPath: Library\metadata\51\51b16a81a8ab71142b9ccecdda673afa.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\51\51ec5c474964b32449afa489a76441ce
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\51\51ec5c474964b32449afa489a76441ce
+      projectPath: Library\metadata\51\51ec5c474964b32449afa489a76441ce
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\51\51ec5c474964b32449afa489a76441ce.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\51\51ec5c474964b32449afa489a76441ce.info
+      projectPath: Library\metadata\51\51ec5c474964b32449afa489a76441ce.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\55\55833066290834f46949d6315d52f59a
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\55\55833066290834f46949d6315d52f59a
+      projectPath: Library\metadata\55\55833066290834f46949d6315d52f59a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\55\55833066290834f46949d6315d52f59a.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\55\55833066290834f46949d6315d52f59a.info
+      projectPath: Library\metadata\55\55833066290834f46949d6315d52f59a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\5a\5a3aaf43137e3164a8b11e3170130917
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\5a\5a3aaf43137e3164a8b11e3170130917
+      projectPath: Library\metadata\5a\5a3aaf43137e3164a8b11e3170130917
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\5a\5a3aaf43137e3164a8b11e3170130917.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\5a\5a3aaf43137e3164a8b11e3170130917.info
+      projectPath: Library\metadata\5a\5a3aaf43137e3164a8b11e3170130917.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\5c\5c27e8ec8e7403d4d99f16bf5326df7a
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\5c\5c27e8ec8e7403d4d99f16bf5326df7a
+      projectPath: Library\metadata\5c\5c27e8ec8e7403d4d99f16bf5326df7a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\5c\5c27e8ec8e7403d4d99f16bf5326df7a.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\5c\5c27e8ec8e7403d4d99f16bf5326df7a.info
+      projectPath: Library\metadata\5c\5c27e8ec8e7403d4d99f16bf5326df7a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\5c\5ca90f70b47b4b6478aac27e8ab8ce0e
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\5c\5ca90f70b47b4b6478aac27e8ab8ce0e
+      projectPath: Library\metadata\5c\5ca90f70b47b4b6478aac27e8ab8ce0e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\5c\5ca90f70b47b4b6478aac27e8ab8ce0e.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\5c\5ca90f70b47b4b6478aac27e8ab8ce0e.info
+      projectPath: Library\metadata\5c\5ca90f70b47b4b6478aac27e8ab8ce0e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\5d\5d662e81472aef74984f4e0772c1d5ba
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\5d\5d662e81472aef74984f4e0772c1d5ba
+      projectPath: Library\metadata\5d\5d662e81472aef74984f4e0772c1d5ba
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\5d\5d662e81472aef74984f4e0772c1d5ba.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\5d\5d662e81472aef74984f4e0772c1d5ba.info
+      projectPath: Library\metadata\5d\5d662e81472aef74984f4e0772c1d5ba.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\61\617d840f3425a9146bdf5f55b34fc437
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\61\617d840f3425a9146bdf5f55b34fc437
+      projectPath: Library\metadata\61\617d840f3425a9146bdf5f55b34fc437
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\61\617d840f3425a9146bdf5f55b34fc437.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\61\617d840f3425a9146bdf5f55b34fc437.info
+      projectPath: Library\metadata\61\617d840f3425a9146bdf5f55b34fc437.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\61\61da3527a80059e4bad730587d0a340e
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\61\61da3527a80059e4bad730587d0a340e
+      projectPath: Library\metadata\61\61da3527a80059e4bad730587d0a340e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\61\61da3527a80059e4bad730587d0a340e.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\61\61da3527a80059e4bad730587d0a340e.info
+      projectPath: Library\metadata\61\61da3527a80059e4bad730587d0a340e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\63\6381ce6d634d39a43a28e1735b9e69b2
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\63\6381ce6d634d39a43a28e1735b9e69b2
+      projectPath: Library\metadata\63\6381ce6d634d39a43a28e1735b9e69b2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\63\6381ce6d634d39a43a28e1735b9e69b2.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\63\6381ce6d634d39a43a28e1735b9e69b2.info
+      projectPath: Library\metadata\63\6381ce6d634d39a43a28e1735b9e69b2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\65\65ec3b8a1d8d6284586a4f907440f84e
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\65\65ec3b8a1d8d6284586a4f907440f84e
+      projectPath: Library\metadata\65\65ec3b8a1d8d6284586a4f907440f84e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\65\65ec3b8a1d8d6284586a4f907440f84e.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\65\65ec3b8a1d8d6284586a4f907440f84e.info
+      projectPath: Library\metadata\65\65ec3b8a1d8d6284586a4f907440f84e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\67\671c2daa94d8a1249b3c1e2628443713
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\67\671c2daa94d8a1249b3c1e2628443713
+      projectPath: Library\metadata\67\671c2daa94d8a1249b3c1e2628443713
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\67\671c2daa94d8a1249b3c1e2628443713.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\67\671c2daa94d8a1249b3c1e2628443713.info
+      projectPath: Library\metadata\67\671c2daa94d8a1249b3c1e2628443713.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6b\6b26718338527864abd648d4e552324e
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6b\6b26718338527864abd648d4e552324e
+      projectPath: Library\metadata\6b\6b26718338527864abd648d4e552324e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6b\6b26718338527864abd648d4e552324e.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6b\6b26718338527864abd648d4e552324e.info
+      projectPath: Library\metadata\6b\6b26718338527864abd648d4e552324e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6d\6dad857e229c05b429bfe027befd0ed8
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6d\6dad857e229c05b429bfe027befd0ed8
+      projectPath: Library\metadata\6d\6dad857e229c05b429bfe027befd0ed8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6d\6dad857e229c05b429bfe027befd0ed8.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6d\6dad857e229c05b429bfe027befd0ed8.info
+      projectPath: Library\metadata\6d\6dad857e229c05b429bfe027befd0ed8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6d\6dee4a3f5b8a689418f67fdbbab873ec
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6d\6dee4a3f5b8a689418f67fdbbab873ec
+      projectPath: Library\metadata\6d\6dee4a3f5b8a689418f67fdbbab873ec
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6d\6dee4a3f5b8a689418f67fdbbab873ec.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6d\6dee4a3f5b8a689418f67fdbbab873ec.info
+      projectPath: Library\metadata\6d\6dee4a3f5b8a689418f67fdbbab873ec.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6e\6e5b374390ec0d949beccd6d2bfe0d34
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6e\6e5b374390ec0d949beccd6d2bfe0d34
+      projectPath: Library\metadata\6e\6e5b374390ec0d949beccd6d2bfe0d34
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6e\6e5b374390ec0d949beccd6d2bfe0d34.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6e\6e5b374390ec0d949beccd6d2bfe0d34.info
+      projectPath: Library\metadata\6e\6e5b374390ec0d949beccd6d2bfe0d34.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6e\6efd722f75d0d674782f02c34c203c5c
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6e\6efd722f75d0d674782f02c34c203c5c
+      projectPath: Library\metadata\6e\6efd722f75d0d674782f02c34c203c5c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\6e\6efd722f75d0d674782f02c34c203c5c.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\6e\6efd722f75d0d674782f02c34c203c5c.info
+      projectPath: Library\metadata\6e\6efd722f75d0d674782f02c34c203c5c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\73\73b893ad756b11348931682e21751958
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\73\73b893ad756b11348931682e21751958
+      projectPath: Library\metadata\73\73b893ad756b11348931682e21751958
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\73\73b893ad756b11348931682e21751958.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\73\73b893ad756b11348931682e21751958.info
+      projectPath: Library\metadata\73\73b893ad756b11348931682e21751958.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\75\7510323f0ca7e42478718158f8c5a04d
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\75\7510323f0ca7e42478718158f8c5a04d
+      projectPath: Library\metadata\75\7510323f0ca7e42478718158f8c5a04d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\75\7510323f0ca7e42478718158f8c5a04d.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\75\7510323f0ca7e42478718158f8c5a04d.info
+      projectPath: Library\metadata\75\7510323f0ca7e42478718158f8c5a04d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\7d\7dab3492878fe4a4c86507329a881fac
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\7d\7dab3492878fe4a4c86507329a881fac
+      projectPath: Library\metadata\7d\7dab3492878fe4a4c86507329a881fac
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\7d\7dab3492878fe4a4c86507329a881fac.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\7d\7dab3492878fe4a4c86507329a881fac.info
+      projectPath: Library\metadata\7d\7dab3492878fe4a4c86507329a881fac.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\80\801143e3ddbfd21418f476964b30ab1a
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\80\801143e3ddbfd21418f476964b30ab1a
+      projectPath: Library\metadata\80\801143e3ddbfd21418f476964b30ab1a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\80\801143e3ddbfd21418f476964b30ab1a.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\80\801143e3ddbfd21418f476964b30ab1a.info
+      projectPath: Library\metadata\80\801143e3ddbfd21418f476964b30ab1a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\80\80a9c4b1171607d4b8b86b08cbeb4eee
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\80\80a9c4b1171607d4b8b86b08cbeb4eee
+      projectPath: Library\metadata\80\80a9c4b1171607d4b8b86b08cbeb4eee
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\80\80a9c4b1171607d4b8b86b08cbeb4eee.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\80\80a9c4b1171607d4b8b86b08cbeb4eee.info
+      projectPath: Library\metadata\80\80a9c4b1171607d4b8b86b08cbeb4eee.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\82\824764f877c78584aa2896ec59ab7bea
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\82\824764f877c78584aa2896ec59ab7bea
+      projectPath: Library\metadata\82\824764f877c78584aa2896ec59ab7bea
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\82\824764f877c78584aa2896ec59ab7bea.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\82\824764f877c78584aa2896ec59ab7bea.info
+      projectPath: Library\metadata\82\824764f877c78584aa2896ec59ab7bea.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\82\8298935a1e54c8b47a86710bbec323c4
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\82\8298935a1e54c8b47a86710bbec323c4
+      projectPath: Library\metadata\82\8298935a1e54c8b47a86710bbec323c4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\82\8298935a1e54c8b47a86710bbec323c4.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\82\8298935a1e54c8b47a86710bbec323c4.info
+      projectPath: Library\metadata\82\8298935a1e54c8b47a86710bbec323c4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\85\85c6612e9cbc94948bcf5e3ba01b8ff9
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\85\85c6612e9cbc94948bcf5e3ba01b8ff9
+      projectPath: Library\metadata\85\85c6612e9cbc94948bcf5e3ba01b8ff9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\85\85c6612e9cbc94948bcf5e3ba01b8ff9.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\85\85c6612e9cbc94948bcf5e3ba01b8ff9.info
+      projectPath: Library\metadata\85\85c6612e9cbc94948bcf5e3ba01b8ff9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\87\87e5a93591a4a3a4a9f4dd6ea48cc66f
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\87\87e5a93591a4a3a4a9f4dd6ea48cc66f
+      projectPath: Library\metadata\87\87e5a93591a4a3a4a9f4dd6ea48cc66f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\87\87e5a93591a4a3a4a9f4dd6ea48cc66f.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\87\87e5a93591a4a3a4a9f4dd6ea48cc66f.info
+      projectPath: Library\metadata\87\87e5a93591a4a3a4a9f4dd6ea48cc66f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\8b\8bb529aa315957b458688014b264034f
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\8b\8bb529aa315957b458688014b264034f
+      projectPath: Library\metadata\8b\8bb529aa315957b458688014b264034f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\8b\8bb529aa315957b458688014b264034f.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\8b\8bb529aa315957b458688014b264034f.info
+      projectPath: Library\metadata\8b\8bb529aa315957b458688014b264034f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\8b\8bd4255b9fab4b74cafd2ea472a50f81
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\8b\8bd4255b9fab4b74cafd2ea472a50f81
+      projectPath: Library\metadata\8b\8bd4255b9fab4b74cafd2ea472a50f81
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\8b\8bd4255b9fab4b74cafd2ea472a50f81.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\8b\8bd4255b9fab4b74cafd2ea472a50f81.info
+      projectPath: Library\metadata\8b\8bd4255b9fab4b74cafd2ea472a50f81.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\8e\8e91bda383821c845984e17dc9ada6f4
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\8e\8e91bda383821c845984e17dc9ada6f4
+      projectPath: Library\metadata\8e\8e91bda383821c845984e17dc9ada6f4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\8e\8e91bda383821c845984e17dc9ada6f4.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\8e\8e91bda383821c845984e17dc9ada6f4.info
+      projectPath: Library\metadata\8e\8e91bda383821c845984e17dc9ada6f4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\90\9022d741ec71bed4bbb85bcbc074e5f6
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\90\9022d741ec71bed4bbb85bcbc074e5f6
+      projectPath: Library\metadata\90\9022d741ec71bed4bbb85bcbc074e5f6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\metadata\90\90d567b3a5ded744ab2551697761f586
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\90\90d567b3a5ded744ab2551697761f586
+      projectPath: Library\metadata\90\90d567b3a5ded744ab2551697761f586
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\90\90d567b3a5ded744ab2551697761f586.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\90\90d567b3a5ded744ab2551697761f586.info
+      projectPath: Library\metadata\90\90d567b3a5ded744ab2551697761f586.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\94\946cb94d84ae88b40b1d62161ebe3545
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\94\946cb94d84ae88b40b1d62161ebe3545
+      projectPath: Library\metadata\94\946cb94d84ae88b40b1d62161ebe3545
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\94\946cb94d84ae88b40b1d62161ebe3545.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\94\946cb94d84ae88b40b1d62161ebe3545.info
+      projectPath: Library\metadata\94\946cb94d84ae88b40b1d62161ebe3545.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\97\97a59312aa01f49499d3934197eb7922
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\97\97a59312aa01f49499d3934197eb7922
+      projectPath: Library\metadata\97\97a59312aa01f49499d3934197eb7922
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\97\97a59312aa01f49499d3934197eb7922.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\97\97a59312aa01f49499d3934197eb7922.info
+      projectPath: Library\metadata\97\97a59312aa01f49499d3934197eb7922.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\98\9871de56b25f2fa43add2a46755693b4
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\98\9871de56b25f2fa43add2a46755693b4
+      projectPath: Library\metadata\98\9871de56b25f2fa43add2a46755693b4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\98\9871de56b25f2fa43add2a46755693b4.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\98\9871de56b25f2fa43add2a46755693b4.info
+      projectPath: Library\metadata\98\9871de56b25f2fa43add2a46755693b4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\98\98d302fe731c9854baa3433942fca72c
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\98\98d302fe731c9854baa3433942fca72c
+      projectPath: Library\metadata\98\98d302fe731c9854baa3433942fca72c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\98\98d302fe731c9854baa3433942fca72c.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\98\98d302fe731c9854baa3433942fca72c.info
+      projectPath: Library\metadata\98\98d302fe731c9854baa3433942fca72c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\9b\9b3e367ccc7eda34396d1db57d29240c
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\9b\9b3e367ccc7eda34396d1db57d29240c
+      projectPath: Library\metadata\9b\9b3e367ccc7eda34396d1db57d29240c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\9b\9b3e367ccc7eda34396d1db57d29240c.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\9b\9b3e367ccc7eda34396d1db57d29240c.info
+      projectPath: Library\metadata\9b\9b3e367ccc7eda34396d1db57d29240c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\9b\9bbf53224d3ed844db9a1ab415547ddd
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\9b\9bbf53224d3ed844db9a1ab415547ddd
+      projectPath: Library\metadata\9b\9bbf53224d3ed844db9a1ab415547ddd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\9b\9bbf53224d3ed844db9a1ab415547ddd.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\9b\9bbf53224d3ed844db9a1ab415547ddd.info
+      projectPath: Library\metadata\9b\9bbf53224d3ed844db9a1ab415547ddd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\9d\9d85dc139bd218645b556fa8e889ea81
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\9d\9d85dc139bd218645b556fa8e889ea81
+      projectPath: Library\metadata\9d\9d85dc139bd218645b556fa8e889ea81
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\9d\9d85dc139bd218645b556fa8e889ea81.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\9d\9d85dc139bd218645b556fa8e889ea81.info
+      projectPath: Library\metadata\9d\9d85dc139bd218645b556fa8e889ea81.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\a1\a1f62b33af3a93e458c4e223fa02d951
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\a1\a1f62b33af3a93e458c4e223fa02d951
+      projectPath: Library\metadata\a1\a1f62b33af3a93e458c4e223fa02d951
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\a1\a1f62b33af3a93e458c4e223fa02d951.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\a1\a1f62b33af3a93e458c4e223fa02d951.info
+      projectPath: Library\metadata\a1\a1f62b33af3a93e458c4e223fa02d951.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\a6\a655d4c42ec381d479f99e6b60691d80
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\a6\a655d4c42ec381d479f99e6b60691d80
+      projectPath: Library\metadata\a6\a655d4c42ec381d479f99e6b60691d80
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\a6\a655d4c42ec381d479f99e6b60691d80.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\a6\a655d4c42ec381d479f99e6b60691d80.info
+      projectPath: Library\metadata\a6\a655d4c42ec381d479f99e6b60691d80.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\aa\aa9a3c4172adc784f817a70378f219fe
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\aa\aa9a3c4172adc784f817a70378f219fe
+      projectPath: Library\metadata\aa\aa9a3c4172adc784f817a70378f219fe
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\aa\aa9a3c4172adc784f817a70378f219fe.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\aa\aa9a3c4172adc784f817a70378f219fe.info
+      projectPath: Library\metadata\aa\aa9a3c4172adc784f817a70378f219fe.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ac\ace1cfcebb102e64b8f1d3f44f574d8e
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ac\ace1cfcebb102e64b8f1d3f44f574d8e
+      projectPath: Library\metadata\ac\ace1cfcebb102e64b8f1d3f44f574d8e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ac\ace1cfcebb102e64b8f1d3f44f574d8e.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ac\ace1cfcebb102e64b8f1d3f44f574d8e.info
+      projectPath: Library\metadata\ac\ace1cfcebb102e64b8f1d3f44f574d8e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ad\adb946120768f834ebb6eabbb84b12b4
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ad\adb946120768f834ebb6eabbb84b12b4
+      projectPath: Library\metadata\ad\adb946120768f834ebb6eabbb84b12b4
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\metadata\af\af7e87e85d62c8341b118277b89c9bc5
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\af\af7e87e85d62c8341b118277b89c9bc5
+      projectPath: Library\metadata\af\af7e87e85d62c8341b118277b89c9bc5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\af\af7e87e85d62c8341b118277b89c9bc5.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\af\af7e87e85d62c8341b118277b89c9bc5.info
+      projectPath: Library\metadata\af\af7e87e85d62c8341b118277b89c9bc5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\b0\b031a7ffcf13d224588773758de18d44
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\b0\b031a7ffcf13d224588773758de18d44
+      projectPath: Library\metadata\b0\b031a7ffcf13d224588773758de18d44
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\b0\b031a7ffcf13d224588773758de18d44.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\b0\b031a7ffcf13d224588773758de18d44.info
+      projectPath: Library\metadata\b0\b031a7ffcf13d224588773758de18d44.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\b6\b6fc67bac10f0f84ca18baf4873fa4bb
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\b6\b6fc67bac10f0f84ca18baf4873fa4bb
+      projectPath: Library\metadata\b6\b6fc67bac10f0f84ca18baf4873fa4bb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\b6\b6fc67bac10f0f84ca18baf4873fa4bb.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\b6\b6fc67bac10f0f84ca18baf4873fa4bb.info
+      projectPath: Library\metadata\b6\b6fc67bac10f0f84ca18baf4873fa4bb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\b7\b7354cdf1e01552418215e8fe30fe4d7
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\b7\b7354cdf1e01552418215e8fe30fe4d7
+      projectPath: Library\metadata\b7\b7354cdf1e01552418215e8fe30fe4d7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\b7\b7354cdf1e01552418215e8fe30fe4d7.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\b7\b7354cdf1e01552418215e8fe30fe4d7.info
+      projectPath: Library\metadata\b7\b7354cdf1e01552418215e8fe30fe4d7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\b7\b7e5934140f53494b95f8733412aecc9
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\b7\b7e5934140f53494b95f8733412aecc9
+      projectPath: Library\metadata\b7\b7e5934140f53494b95f8733412aecc9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\b7\b7e5934140f53494b95f8733412aecc9.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\b7\b7e5934140f53494b95f8733412aecc9.info
+      projectPath: Library\metadata\b7\b7e5934140f53494b95f8733412aecc9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\bf\bf9b43886e852804095defab9ce11d08
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\bf\bf9b43886e852804095defab9ce11d08
+      projectPath: Library\metadata\bf\bf9b43886e852804095defab9ce11d08
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\bf\bf9b43886e852804095defab9ce11d08.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\bf\bf9b43886e852804095defab9ce11d08.info
+      projectPath: Library\metadata\bf\bf9b43886e852804095defab9ce11d08.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\c0\c0418a54d739e2e458eaedb3a7e6a82c
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\c0\c0418a54d739e2e458eaedb3a7e6a82c
+      projectPath: Library\metadata\c0\c0418a54d739e2e458eaedb3a7e6a82c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\c0\c0418a54d739e2e458eaedb3a7e6a82c.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\c0\c0418a54d739e2e458eaedb3a7e6a82c.info
+      projectPath: Library\metadata\c0\c0418a54d739e2e458eaedb3a7e6a82c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ca\ca85866e65bb61e46b2d2be6896b91ba
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ca\ca85866e65bb61e46b2d2be6896b91ba
+      projectPath: Library\metadata\ca\ca85866e65bb61e46b2d2be6896b91ba
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ca\ca85866e65bb61e46b2d2be6896b91ba.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ca\ca85866e65bb61e46b2d2be6896b91ba.info
+      projectPath: Library\metadata\ca\ca85866e65bb61e46b2d2be6896b91ba.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d2\d2d09b2268f14b042b95179a86584b98
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d2\d2d09b2268f14b042b95179a86584b98
+      projectPath: Library\metadata\d2\d2d09b2268f14b042b95179a86584b98
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d2\d2d09b2268f14b042b95179a86584b98.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d2\d2d09b2268f14b042b95179a86584b98.info
+      projectPath: Library\metadata\d2\d2d09b2268f14b042b95179a86584b98.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d2\d2d118d1e82c38240b39eb0d3adb186d
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d2\d2d118d1e82c38240b39eb0d3adb186d
+      projectPath: Library\metadata\d2\d2d118d1e82c38240b39eb0d3adb186d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d2\d2d118d1e82c38240b39eb0d3adb186d.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d2\d2d118d1e82c38240b39eb0d3adb186d.info
+      projectPath: Library\metadata\d2\d2d118d1e82c38240b39eb0d3adb186d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d3\d32913e5d1a34594c9ccbcb76a7786f8
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d3\d32913e5d1a34594c9ccbcb76a7786f8
+      projectPath: Library\metadata\d3\d32913e5d1a34594c9ccbcb76a7786f8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d3\d32913e5d1a34594c9ccbcb76a7786f8.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d3\d32913e5d1a34594c9ccbcb76a7786f8.info
+      projectPath: Library\metadata\d3\d32913e5d1a34594c9ccbcb76a7786f8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d6\d62bdf9e34b630943beb198f399b14ac
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d6\d62bdf9e34b630943beb198f399b14ac
+      projectPath: Library\metadata\d6\d62bdf9e34b630943beb198f399b14ac
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d6\d62bdf9e34b630943beb198f399b14ac.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d6\d62bdf9e34b630943beb198f399b14ac.info
+      projectPath: Library\metadata\d6\d62bdf9e34b630943beb198f399b14ac.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d6\d6954b43d32ca47499a17bfa355a7d0a
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d6\d6954b43d32ca47499a17bfa355a7d0a
+      projectPath: Library\metadata\d6\d6954b43d32ca47499a17bfa355a7d0a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d6\d6954b43d32ca47499a17bfa355a7d0a.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d6\d6954b43d32ca47499a17bfa355a7d0a.info
+      projectPath: Library\metadata\d6\d6954b43d32ca47499a17bfa355a7d0a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d7\d7fec77933fe51e468050f82436df12a
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d7\d7fec77933fe51e468050f82436df12a
+      projectPath: Library\metadata\d7\d7fec77933fe51e468050f82436df12a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\d7\d7fec77933fe51e468050f82436df12a.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\d7\d7fec77933fe51e468050f82436df12a.info
+      projectPath: Library\metadata\d7\d7fec77933fe51e468050f82436df12a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\db\db7285f4c3afd00479f4ac725b50769d
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\db\db7285f4c3afd00479f4ac725b50769d
+      projectPath: Library\metadata\db\db7285f4c3afd00479f4ac725b50769d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\db\db7285f4c3afd00479f4ac725b50769d.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\db\db7285f4c3afd00479f4ac725b50769d.info
+      projectPath: Library\metadata\db\db7285f4c3afd00479f4ac725b50769d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\db\dbfdb8553d07b414680bee21826c6960
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\db\dbfdb8553d07b414680bee21826c6960
+      projectPath: Library\metadata\db\dbfdb8553d07b414680bee21826c6960
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\db\dbfdb8553d07b414680bee21826c6960.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\db\dbfdb8553d07b414680bee21826c6960.info
+      projectPath: Library\metadata\db\dbfdb8553d07b414680bee21826c6960.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\de\de3e1a1e47e0e6d418b5687ec9587e37
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\de\de3e1a1e47e0e6d418b5687ec9587e37
+      projectPath: Library\metadata\de\de3e1a1e47e0e6d418b5687ec9587e37
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\de\de3e1a1e47e0e6d418b5687ec9587e37.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\de\de3e1a1e47e0e6d418b5687ec9587e37.info
+      projectPath: Library\metadata\de\de3e1a1e47e0e6d418b5687ec9587e37.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\e7\e786261f6ac128d49bd5fba8ea6c5c01
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\e7\e786261f6ac128d49bd5fba8ea6c5c01
+      projectPath: Library\metadata\e7\e786261f6ac128d49bd5fba8ea6c5c01
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\e7\e786261f6ac128d49bd5fba8ea6c5c01.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\e7\e786261f6ac128d49bd5fba8ea6c5c01.info
+      projectPath: Library\metadata\e7\e786261f6ac128d49bd5fba8ea6c5c01.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\e7\e786963858dc0f6448ca957fa52e0e4f
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\e7\e786963858dc0f6448ca957fa52e0e4f
+      projectPath: Library\metadata\e7\e786963858dc0f6448ca957fa52e0e4f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\e7\e786963858dc0f6448ca957fa52e0e4f.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\e7\e786963858dc0f6448ca957fa52e0e4f.info
+      projectPath: Library\metadata\e7\e786963858dc0f6448ca957fa52e0e4f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\e8\e8a77c92d15dbfd4babdb346591a8cc3
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\e8\e8a77c92d15dbfd4babdb346591a8cc3
+      projectPath: Library\metadata\e8\e8a77c92d15dbfd4babdb346591a8cc3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\e8\e8a77c92d15dbfd4babdb346591a8cc3.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\e8\e8a77c92d15dbfd4babdb346591a8cc3.info
+      projectPath: Library\metadata\e8\e8a77c92d15dbfd4babdb346591a8cc3.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\e9\e9d2420b4dbd6f14e88767845f64d0f7
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\e9\e9d2420b4dbd6f14e88767845f64d0f7
+      projectPath: Library\metadata\e9\e9d2420b4dbd6f14e88767845f64d0f7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\e9\e9d2420b4dbd6f14e88767845f64d0f7.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\e9\e9d2420b4dbd6f14e88767845f64d0f7.info
+      projectPath: Library\metadata\e9\e9d2420b4dbd6f14e88767845f64d0f7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ec\ecefdfa101c8c5a4a9fb6620b14fb5fd
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ec\ecefdfa101c8c5a4a9fb6620b14fb5fd
+      projectPath: Library\metadata\ec\ecefdfa101c8c5a4a9fb6620b14fb5fd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ec\ecefdfa101c8c5a4a9fb6620b14fb5fd.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ec\ecefdfa101c8c5a4a9fb6620b14fb5fd.info
+      projectPath: Library\metadata\ec\ecefdfa101c8c5a4a9fb6620b14fb5fd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ed\ed68aede023825041a5370061778d41c
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ed\ed68aede023825041a5370061778d41c
+      projectPath: Library\metadata\ed\ed68aede023825041a5370061778d41c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ed\ed68aede023825041a5370061778d41c.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ed\ed68aede023825041a5370061778d41c.info
+      projectPath: Library\metadata\ed\ed68aede023825041a5370061778d41c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f0\f0b941f098b8dbf47abd4b0037fa3a4a
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f0\f0b941f098b8dbf47abd4b0037fa3a4a
+      projectPath: Library\metadata\f0\f0b941f098b8dbf47abd4b0037fa3a4a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f0\f0b941f098b8dbf47abd4b0037fa3a4a.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f0\f0b941f098b8dbf47abd4b0037fa3a4a.info
+      projectPath: Library\metadata\f0\f0b941f098b8dbf47abd4b0037fa3a4a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f2\f2835c5b985507f40bf2d277fd6d32c6
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f2\f2835c5b985507f40bf2d277fd6d32c6
+      projectPath: Library\metadata\f2\f2835c5b985507f40bf2d277fd6d32c6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f2\f2835c5b985507f40bf2d277fd6d32c6.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f2\f2835c5b985507f40bf2d277fd6d32c6.info
+      projectPath: Library\metadata\f2\f2835c5b985507f40bf2d277fd6d32c6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+      projectPath: Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\metadata\f4\f49cae16c3c7e1f4d8148f5aeb7934f7
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f4\f49cae16c3c7e1f4d8148f5aeb7934f7
+      projectPath: Library\metadata\f4\f49cae16c3c7e1f4d8148f5aeb7934f7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f4\f49cae16c3c7e1f4d8148f5aeb7934f7.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f4\f49cae16c3c7e1f4d8148f5aeb7934f7.info
+      projectPath: Library\metadata\f4\f49cae16c3c7e1f4d8148f5aeb7934f7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f5\f55f940f228304643a24dcdfa7fd2879
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f5\f55f940f228304643a24dcdfa7fd2879
+      projectPath: Library\metadata\f5\f55f940f228304643a24dcdfa7fd2879
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f5\f55f940f228304643a24dcdfa7fd2879.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f5\f55f940f228304643a24dcdfa7fd2879.info
+      projectPath: Library\metadata\f5\f55f940f228304643a24dcdfa7fd2879.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f5\f57084aeecd33ed4eb20a6745d3bb7fc
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f5\f57084aeecd33ed4eb20a6745d3bb7fc
+      projectPath: Library\metadata\f5\f57084aeecd33ed4eb20a6745d3bb7fc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f5\f57084aeecd33ed4eb20a6745d3bb7fc.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f5\f57084aeecd33ed4eb20a6745d3bb7fc.info
+      projectPath: Library\metadata\f5\f57084aeecd33ed4eb20a6745d3bb7fc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f7\f70bac0abe6e8ba4a846838ad9cce6dd
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f7\f70bac0abe6e8ba4a846838ad9cce6dd
+      projectPath: Library\metadata\f7\f70bac0abe6e8ba4a846838ad9cce6dd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\f7\f70bac0abe6e8ba4a846838ad9cce6dd.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f7\f70bac0abe6e8ba4a846838ad9cce6dd.info
+      projectPath: Library\metadata\f7\f70bac0abe6e8ba4a846838ad9cce6dd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\fb\fb3b62ca1098cb044ac6ecc69fe8026d
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\fb\fb3b62ca1098cb044ac6ecc69fe8026d
+      projectPath: Library\metadata\fb\fb3b62ca1098cb044ac6ecc69fe8026d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\fb\fb3b62ca1098cb044ac6ecc69fe8026d.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\fb\fb3b62ca1098cb044ac6ecc69fe8026d.info
+      projectPath: Library\metadata\fb\fb3b62ca1098cb044ac6ecc69fe8026d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\fc\fc3ce9d20f0797e4db825209f25f8e22
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\fc\fc3ce9d20f0797e4db825209f25f8e22
+      projectPath: Library\metadata\fc\fc3ce9d20f0797e4db825209f25f8e22
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\fc\fc3ce9d20f0797e4db825209f25f8e22.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\fc\fc3ce9d20f0797e4db825209f25f8e22.info
+      projectPath: Library\metadata\fc\fc3ce9d20f0797e4db825209f25f8e22.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\fc\fca484a638c989e4d899378f52d7c168
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\fc\fca484a638c989e4d899378f52d7c168
+      projectPath: Library\metadata\fc\fca484a638c989e4d899378f52d7c168
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\fc\fca484a638c989e4d899378f52d7c168.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\fc\fca484a638c989e4d899378f52d7c168.info
+      projectPath: Library\metadata\fc\fca484a638c989e4d899378f52d7c168.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\fd\fd283077e8a49ef46aa8a906a1474670
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\fd\fd283077e8a49ef46aa8a906a1474670
+      projectPath: Library\metadata\fd\fd283077e8a49ef46aa8a906a1474670
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\fd\fd283077e8a49ef46aa8a906a1474670.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\fd\fd283077e8a49ef46aa8a906a1474670.info
+      projectPath: Library\metadata\fd\fd283077e8a49ef46aa8a906a1474670.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ff\ff1c1eabe455c8e4793e784d6f2812d5
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ff\ff1c1eabe455c8e4793e784d6f2812d5
+      projectPath: Library\metadata\ff\ff1c1eabe455c8e4793e784d6f2812d5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ff\ff1c1eabe455c8e4793e784d6f2812d5.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ff\ff1c1eabe455c8e4793e784d6f2812d5.info
+      projectPath: Library\metadata\ff\ff1c1eabe455c8e4793e784d6f2812d5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ff\ffdc350dd4a318e4ea212526bdfe4c09
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ff\ffdc350dd4a318e4ea212526bdfe4c09
+      projectPath: Library\metadata\ff\ffdc350dd4a318e4ea212526bdfe4c09
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\metadata\ff\ffdc350dd4a318e4ea212526bdfe4c09.info
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\ff\ffdc350dd4a318e4ea212526bdfe4c09.info
+      projectPath: Library\metadata\ff\ffdc350dd4a318e4ea212526bdfe4c09.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\PackageToolsEditor.csproj
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\PackageToolsEditor.csproj
+      projectPath: PackageToolsEditor.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Release\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.FileListAbsolute.txt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.FileListAbsolute.txt
+      projectPath: obj\Release\Assembly-CSharp-firstpass.csproj.FileListAbsolute.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp.csproj.FileListAbsolute.txt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csproj.FileListAbsolute.txt
+      projectPath: obj\Release\Assembly-CSharp.csproj.FileListAbsolute.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\AstarPathfindingProject.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.csproj.CoreCompileInputs.cache
+      projectPath: obj\Release\AstarPathfindingProject.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\AstarPathfindingProject.csproj.FileListAbsolute.txt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.csproj.FileListAbsolute.txt
+      projectPath: obj\Release\AstarPathfindingProject.csproj.FileListAbsolute.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\AstarPathfindingProject.csprojAssemblyReference.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.csprojAssemblyReference.cache
+      projectPath: obj\Release\AstarPathfindingProject.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
+      projectPath: obj\Release\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\AstarPathfindingProjectEditor.csproj.FileListAbsolute.txt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProjectEditor.csproj.FileListAbsolute.txt
+      projectPath: obj\Release\AstarPathfindingProjectEditor.csproj.FileListAbsolute.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\PackageToolsEditor.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\PackageToolsEditor.csproj.CoreCompileInputs.cache
+      projectPath: obj\Release\PackageToolsEditor.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\PackageToolsEditor.csproj.FileListAbsolute.txt
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\PackageToolsEditor.csproj.FileListAbsolute.txt
+      projectPath: obj\Release\PackageToolsEditor.csproj.FileListAbsolute.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\obj\Release\PackageToolsEditor.csprojAssemblyReference.cache
+      fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\PackageToolsEditor.csprojAssemblyReference.cache
+      projectPath: obj\Release\PackageToolsEditor.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 127003d26579393db85c943e9890b70f96941a6d
     mergeA: 
     mergeB: 

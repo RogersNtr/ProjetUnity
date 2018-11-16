@@ -28,11 +28,14 @@ public class KillPlayer : MonoBehaviour
                 scndPlayer = GameObject.FindGameObjectWithTag("Player");
                 scndPlayer.transform.SetPositionAndRotation(spawnPoint.position, spawnPoint.rotation); // respawn 
             }
-            float gravity_robot = this.GetComponent<Rigidbody2D>().gravityScale;
-            float JumpForce_robot = this.GetComponent<PlatformerCharacter2D>().m_JumpForce;
-            this.GetComponent<Rigidbody2D>().gravityScale = Math.Abs(gravity_robot); // remise de la gravité à la normale
-            this.GetComponent<PlatformerCharacter2D>().m_JumpForce = Math.Abs(JumpForce_robot);
-            if(first == "Enemies")
+            float gravity_robot = gameObject.GetComponent<Rigidbody2D>().gravityScale;
+            float JumpForce_robot = gameObject.GetComponent<PlatformerCharacter2D>().m_JumpForce;
+            //this.GetComponent<Rigidbody2D>().gravityScale = 3; // remise de la gravité à la normale
+            gameObject.GetComponent<Rigidbody2D>().gravityScale = Math.Abs(gravity_robot);
+            gameObject.GetComponent<PlatformerCharacter2D>().m_JumpForce = Math.Abs(JumpForce_robot);
+            scndPlayer.gameObject.GetComponent<Rigidbody2D>().gravityScale = Math.Abs(gravity_robot);
+            scndPlayer.gameObject.GetComponent<PlatformerCharacter2D>().m_JumpForce = Math.Abs(JumpForce_robot);
+            if (first == "Enemies")
                 other.gameObject.GetComponent<enemyAI>().ResetTarget();
         }
     }
