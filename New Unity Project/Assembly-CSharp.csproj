@@ -64,12 +64,14 @@
     <Compile Include="Assets\ActionMenuPause.cs" />
     <Compile Include="Assets\Detection.cs" />
     <Compile Include="Assets\enemyAI.cs" />
+    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\GameMaster.cs" />
     <Compile Include="Assets\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
     <Compile Include="Assets\KillEnemy.cs" />
     <Compile Include="Assets\KillPlayer.cs" />
     <Compile Include="Assets\KillTrap.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\MenuScript.cs" />
     <Compile Include="Assets\MonMenuPause.cs" />
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\NextLevel.cs" />
@@ -84,6 +86,7 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\ScriptOptions.cs" />
     <Compile Include="Assets\UpAndDown.cs" />
     <None Include="Assets\Animated Trap\SpriteSheets\Trap.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />

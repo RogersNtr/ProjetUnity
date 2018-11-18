@@ -12,9 +12,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-18T20:15:59.164+01:00
-  initializedAtString: 2018-11-18T20:13:03.922+01:00
+  lastUpdatedAtString: 2018-11-18T22:00:47.873+01:00
+  initializedAtString: 2018-11-18T21:57:02.868+01:00
   entries:
+  - path: New Unity Project\.vs\New Unity Project\v15\.suo
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\.vs\New Unity
+      Project\v15\.suo
+    projectPath: .vs\New Unity Project\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
   - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
     fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\.vs\New Unity
       Project\v15\Server\sqlite3\storage.ide-shm
@@ -22,23 +29,106 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\Standard
-      Assets\2D\Scripts\Platformer2DUserControl.cs
-    projectPath: Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs
+  - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\.vs\New Unity
+      Project\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Assets\Standard Assets\2D\Scripts\Platformer2DUserControl2.cs
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\Standard
-      Assets\2D\Scripts\Platformer2DUserControl2.cs
-    projectPath: Assets\Standard Assets\2D\Scripts\Platformer2DUserControl2.cs
+  - path: New Unity Project\Assembly-CSharp.csproj
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
+    staged: 0
+  - path: New Unity Project\Assets\ActionMenuPause.cs
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\ActionMenuPause.cs
+    projectPath: Assets\ActionMenuPause.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Assets\GameManager.cs
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\GameManager.cs
+    projectPath: Assets\GameManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Assets\GameManager.cs.meta
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\GameManager.cs.meta
+    projectPath: Assets\GameManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Assets\MainMenu.cs
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\MainMenu.cs
+    projectPath: Assets\MainMenu.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Assets\MenuScript.cs
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\MenuScript.cs
+    projectPath: Assets\MenuScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Assets\MenuScript.cs.meta
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\MenuScript.cs.meta
+    projectPath: Assets\MenuScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Assets\MonMenuPause.cs
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\MonMenuPause.cs
+    projectPath: Assets\MonMenuPause.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Assets\Scenes\Menus.unity
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\Scenes\Menus.unity
+    projectPath: Assets\Scenes\Menus.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Assets\Scenes\Niveau_1.unity
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\Scenes\Niveau_1.unity
+    projectPath: Assets\Scenes\Niveau_1.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Assets\Scenes\Options.unity
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\Scenes\Options.unity
+    projectPath: Assets\Scenes\Options.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Assets\Scenes\Options.unity.meta
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\Scenes\Options.unity.meta
+    projectPath: Assets\Scenes\Options.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Assets\ScriptOptions.cs
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\ScriptOptions.cs
+    projectPath: Assets\ScriptOptions.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Assets\ScriptOptions.cs.meta
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Assets\ScriptOptions.cs.meta
+    projectPath: Assets\ScriptOptions.cs.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: New Unity Project\Library\assetDatabase3
     fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
@@ -84,27 +174,87 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Library\metadata\98\98be57bd2e4e80048b08f3013791fad7
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\98\98be57bd2e4e80048b08f3013791fad7
-    projectPath: Library\metadata\98\98be57bd2e4e80048b08f3013791fad7
+  - path: New Unity Project\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Library\metadata\c3\c3d7b34a3bb2d4e4b926e7e729d3d410
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\c3\c3d7b34a3bb2d4e4b926e7e729d3d410
-    projectPath: Library\metadata\c3\c3d7b34a3bb2d4e4b926e7e729d3d410
+  - path: New Unity Project\Library\metadata\39\390af6a3c8947794f9519a7f41986ec9
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\39\390af6a3c8947794f9519a7f41986ec9
+    projectPath: Library\metadata\39\390af6a3c8947794f9519a7f41986ec9
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+  - path: New Unity Project\Library\metadata\98\98eb242bc56a6db4386496c9c41f2bea
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\98\98eb242bc56a6db4386496c9c41f2bea
+    projectPath: Library\metadata\98\98eb242bc56a6db4386496c9c41f2bea
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+  - path: New Unity Project\Library\metadata\aa\aa0e62214dd23e8419237c70c8abc4d8
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\aa\aa0e62214dd23e8419237c70c8abc4d8
+    projectPath: Library\metadata\aa\aa0e62214dd23e8419237c70c8abc4d8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\metadata\aa\aa0e62214dd23e8419237c70c8abc4d8.info
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\aa\aa0e62214dd23e8419237c70c8abc4d8.info
+    projectPath: Library\metadata\aa\aa0e62214dd23e8419237c70c8abc4d8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\metadata\ad\ad65ea424ab775e4799a17e0e7dddd35
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\ad\ad65ea424ab775e4799a17e0e7dddd35
+    projectPath: Library\metadata\ad\ad65ea424ab775e4799a17e0e7dddd35
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\metadata\ad\ad65ea424ab775e4799a17e0e7dddd35.info
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\ad\ad65ea424ab775e4799a17e0e7dddd35.info
+    projectPath: Library\metadata\ad\ad65ea424ab775e4799a17e0e7dddd35.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\metadata\de\de6baf708a97b1b4fb99dd68ad9ef2c3
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\de\de6baf708a97b1b4fb99dd68ad9ef2c3
+    projectPath: Library\metadata\de\de6baf708a97b1b4fb99dd68ad9ef2c3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\metadata\de\dec8a034063f26d43a6dffbf38ffebbb
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\de\dec8a034063f26d43a6dffbf38ffebbb
+    projectPath: Library\metadata\de\dec8a034063f26d43a6dffbf38ffebbb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\metadata\de\dec8a034063f26d43a6dffbf38ffebbb.info
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\de\dec8a034063f26d43a6dffbf38ffebbb.info
+    projectPath: Library\metadata\de\dec8a034063f26d43a6dffbf38ffebbb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\metadata\ea\ea92f648f50a61f4799b6ee7022cdce2
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\ea\ea92f648f50a61f4799b6ee7022cdce2
+    projectPath: Library\metadata\ea\ea92f648f50a61f4799b6ee7022cdce2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\metadata\ea\ea92f648f50a61f4799b6ee7022cdce2.info
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\metadata\ea\ea92f648f50a61f4799b6ee7022cdce2.info
+    projectPath: Library\metadata\ea\ea92f648f50a61f4799b6ee7022cdce2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
@@ -120,69 +270,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+  - path: New Unity Project\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    projectPath: obj\Release\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
-    projectPath: obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\AstarPathfindingProject.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.csproj.CoreCompileInputs.cache
-    projectPath: obj\Release\AstarPathfindingProject.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\AstarPathfindingProject.csprojAssemblyReference.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProject.csprojAssemblyReference.cache
-    projectPath: obj\Release\AstarPathfindingProject.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
-    projectPath: obj\Release\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
-    projectPath: obj\Release\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\PackageToolsEditor.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\PackageToolsEditor.csproj.CoreCompileInputs.cache
-    projectPath: obj\Release\PackageToolsEditor.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\PackageToolsEditor.csprojAssemblyReference.cache
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\obj\Release\PackageToolsEditor.csprojAssemblyReference.cache
-    projectPath: obj\Release\PackageToolsEditor.csprojAssemblyReference.cache
+  - path: New Unity Project\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
@@ -195,42 +291,6 @@ MonoBehaviour:
   - path: New Unity Project\Temp\UnityLockfile
     fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-6a485aa09e9e96d4dbcc68b96592f7a3
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Temp\UnityTempFile-6a485aa09e9e96d4dbcc68b96592f7a3
-    projectPath: Temp\UnityTempFile-6a485aa09e9e96d4dbcc68b96592f7a3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-835381cce83cb72478cf60a7f6cb6035
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Temp\UnityTempFile-835381cce83cb72478cf60a7f6cb6035
-    projectPath: Temp\UnityTempFile-835381cce83cb72478cf60a7f6cb6035
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-89b735fafaba8cb4daab33fc70171d31
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Temp\UnityTempFile-89b735fafaba8cb4daab33fc70171d31
-    projectPath: Temp\UnityTempFile-89b735fafaba8cb4daab33fc70171d31
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-bd1b75eaee5cd384a9151bcedfea2ea2
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Temp\UnityTempFile-bd1b75eaee5cd384a9151bcedfea2ea2
-    projectPath: Temp\UnityTempFile-bd1b75eaee5cd384a9151bcedfea2ea2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-dad06a875adc3c342bc95aefb20d8717
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Temp\UnityTempFile-dad06a875adc3c342bc95aefb20d8717
-    projectPath: Temp\UnityTempFile-dad06a875adc3c342bc95aefb20d8717
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-e9cdeeb6ad366ae41920c6e696baec5c
-    fullPath: C:\Users\matahi\Desktop\ProjetUnity\New Unity Project\Temp\UnityTempFile-e9cdeeb6ad366ae41920c6e696baec5c
-    projectPath: Temp\UnityTempFile-e9cdeeb6ad366ae41920c6e696baec5c
     originalPath: 
     status: 1
     staged: 0
