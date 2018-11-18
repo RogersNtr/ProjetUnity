@@ -23,7 +23,7 @@ namespace UnityStandardAssets._2D
         
         private void FixedUpdate(){
             float h = CrossPlatformInputManager.GetAxis("Horizontal"); // bouger avec les flèches gauche et droite
-            bool crouch = false;
+            bool crouch = Input.GetKey(KeyCode.DownArrow);
             m_Character.Move(h, crouch, m_Jump);
             m_Jump = false;
         }

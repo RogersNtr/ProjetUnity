@@ -21,8 +21,8 @@ namespace UnityStandardAssets._2D
         }
         
         private void FixedUpdate(){
-            float h = CrossPlatformInputManager.GetAxis("Horizontal2");
-            bool crouch = false;
+            float h = CrossPlatformInputManager.GetAxis("Horizontal2"); 
+            bool crouch = Input.GetKey(KeyCode.S);
             m_Character.Move(h, crouch, m_Jump);
             m_Jump = false;
         }
