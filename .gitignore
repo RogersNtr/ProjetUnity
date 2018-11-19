@@ -1,2 +1,13 @@
 
 New Unity Project/Temp/UnityTempFile-bea70f480d29f2a48abf2651c481de10
+*.csproj
+*.csproj
+New Unity Project/Assembly-CSharp-Editor-firstpass.csproj
+New Unity Project/Assembly-CSharp-firstpass.csproj
+*.csproj
+*.csproj
+*.yaml
+*.info
+*.bin
+New Unity Project/Temp/UnityLockfile
+*.cache

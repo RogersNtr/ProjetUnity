@@ -397,3 +397,4 @@ Cmd: preprocess
   insize=2378 outsize=1054 ok=1
 Cmd: preprocess
   insize=1371 outsize=372 ok=1
+Cmd: initializeCompiler
