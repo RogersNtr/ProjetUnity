@@ -12,6 +12,140 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-19T21:50:02.738+01:00
+  lastUpdatedAtString: 2018-11-19T22:24:15.357+01:00
   initializedAtString: 2018-11-19T18:24:03.479+01:00
-  entries: []
+  entries:
+  - path: New Unity Project\.vs\New Unity Project\v15\.suo
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+      Unity Project\v15\.suo
+    projectPath: .vs\New Unity Project\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
+      Unity Project\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Assets\KillPlayer.cs
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\KillPlayer.cs
+    projectPath: Assets\KillPlayer.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Assets\Scenes\Niveau_1.unity
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Scenes\Niveau_1.unity
+    projectPath: Assets\Scenes\Niveau_1.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\assetDatabase3
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: New Unity Project\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+    projectPath: Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-b89e44315198fae43a63d0e753ea7a5f
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-b89e44315198fae43a63d0e753ea7a5f
+    projectPath: Temp\UnityTempFile-b89e44315198fae43a63d0e753ea7a5f
+    originalPath: 
+    status: 1
+    staged: 0

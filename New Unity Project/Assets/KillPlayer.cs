@@ -30,7 +30,6 @@ public class KillPlayer : MonoBehaviour
             }
             float gravity_robot = gameObject.GetComponent<Rigidbody2D>().gravityScale;
             float JumpForce_robot = gameObject.GetComponent<PlatformerCharacter2D>().m_JumpForce;
-            //this.GetComponent<Rigidbody2D>().gravityScale = 3; // remise de la gravité à la normale
             gameObject.GetComponent<Rigidbody2D>().gravityScale = Math.Abs(gravity_robot);
             gameObject.GetComponent<PlatformerCharacter2D>().m_JumpForce = Math.Abs(JumpForce_robot);
             scndPlayer.gameObject.GetComponent<Rigidbody2D>().gravityScale = Math.Abs(gravity_robot);
