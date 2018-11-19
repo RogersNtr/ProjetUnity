@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-19T22:24:15.357+01:00
-  initializedAtString: 2018-11-19T18:24:03.479+01:00
+  lastUpdatedAtString: 2018-11-19T23:54:51.496+01:00
+  initializedAtString: 2018-11-19T22:27:28.504+01:00
   entries:
   - path: New Unity Project\.vs\New Unity Project\v15\.suo
     fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\.vs\New
@@ -29,15 +29,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Assets\KillPlayer.cs
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\KillPlayer.cs
-    projectPath: Assets\KillPlayer.cs
-    originalPath: 
-    status: 3
-    staged: 0
   - path: New Unity Project\Assets\Scenes\Niveau_1.unity
     fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Scenes\Niveau_1.unity
     projectPath: Assets\Scenes\Niveau_1.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project\Assets\Scenes\Niveau_2.unity
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Assets\Scenes\Niveau_2.unity
+    projectPath: Assets\Scenes\Niveau_2.unity
     originalPath: 
     status: 3
     staged: 0
@@ -51,7 +51,7 @@ MonoBehaviour:
     fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CrashedAssetImports.txt
     projectPath: Library\CrashedAssetImports.txt
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: New Unity Project\Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\CurrentMaximizeLayout.dwlt
@@ -59,15 +59,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
+  - path: New Unity Project\Library\EditorInstance.json
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
     originalPath: 
     status: 3
     staged: 0
@@ -83,15 +77,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
-    projectPath: Library\metadata\f3\f391a59bd5d82de4aa17fa601b0d1704
+  - path: New Unity Project\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     status: 3
     staged: 0
@@ -99,7 +93,7 @@ MonoBehaviour:
     fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
     projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -107,45 +101,81 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Release\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
-    projectPath: obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
   - path: New Unity Project\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-b89e44315198fae43a63d0e753ea7a5f
-    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-b89e44315198fae43a63d0e753ea7a5f
-    projectPath: Temp\UnityTempFile-b89e44315198fae43a63d0e753ea7a5f
+  - path: New Unity Project\Temp\UnityTempFile-13bb597bc1ce16b44873df4554cd6784
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-13bb597bc1ce16b44873df4554cd6784
+    projectPath: Temp\UnityTempFile-13bb597bc1ce16b44873df4554cd6784
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-276dfcaf11acd354c86b7f4b4d789179
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-276dfcaf11acd354c86b7f4b4d789179
+    projectPath: Temp\UnityTempFile-276dfcaf11acd354c86b7f4b4d789179
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-40d90019d575b7146bfe2f93e925fb66
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-40d90019d575b7146bfe2f93e925fb66
+    projectPath: Temp\UnityTempFile-40d90019d575b7146bfe2f93e925fb66
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-4897e20e646a0cb43839ce41bc337baa
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-4897e20e646a0cb43839ce41bc337baa
+    projectPath: Temp\UnityTempFile-4897e20e646a0cb43839ce41bc337baa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-589f1f2d8a06ccf4780c5734374c61a9
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-589f1f2d8a06ccf4780c5734374c61a9
+    projectPath: Temp\UnityTempFile-589f1f2d8a06ccf4780c5734374c61a9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-78a2b65335ef9444394734879e71aeda
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-78a2b65335ef9444394734879e71aeda
+    projectPath: Temp\UnityTempFile-78a2b65335ef9444394734879e71aeda
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-83b79f498f95d8c4582786cddeb18de9
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-83b79f498f95d8c4582786cddeb18de9
+    projectPath: Temp\UnityTempFile-83b79f498f95d8c4582786cddeb18de9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-b5a449ad5e8b44b4ba7e1faf21d6e9b1
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-b5a449ad5e8b44b4ba7e1faf21d6e9b1
+    projectPath: Temp\UnityTempFile-b5a449ad5e8b44b4ba7e1faf21d6e9b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-ba8bc12a72b8e3f4ba1081b302490a5e
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-ba8bc12a72b8e3f4ba1081b302490a5e
+    projectPath: Temp\UnityTempFile-ba8bc12a72b8e3f4ba1081b302490a5e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-ccc99da49e371fc4ab120c59a4cd4cba
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-ccc99da49e371fc4ab120c59a4cd4cba
+    projectPath: Temp\UnityTempFile-ccc99da49e371fc4ab120c59a4cd4cba
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-ea8f50b2593c05047aa524620ce4397b
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-ea8f50b2593c05047aa524620ce4397b
+    projectPath: Temp\UnityTempFile-ea8f50b2593c05047aa524620ce4397b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\UnityTempFile-f4aec4fbf105c64409d0389f17969c05
+    fullPath: C:\Users\chamb\Documents\GitHub\ProjetUnity\New Unity Project\Temp\UnityTempFile-f4aec4fbf105c64409d0389f17969c05
+    projectPath: Temp\UnityTempFile-f4aec4fbf105c64409d0389f17969c05
     originalPath: 
     status: 1
     staged: 0
