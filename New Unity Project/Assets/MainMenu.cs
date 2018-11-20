@@ -28,4 +28,9 @@ public class MainMenu : MonoBehaviour {
         Debug.Log("See you");
         Application.Quit();
     }
+
+    public void BackButton()
+    {
+        SceneManager.LoadScene(0);
+    }
 }
